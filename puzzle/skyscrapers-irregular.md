@@ -1,7 +1,7 @@
 # 幾何学ビルディング
 
 ## オリジナル
-- [ビルディングパズル](skyscrapers.md)
+- [ビルディング](skyscrapers.md)
 
 ## 問題
 - [WPC選抜大会 2018](../questions/jwpc2018.md)

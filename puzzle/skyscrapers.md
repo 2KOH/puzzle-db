@@ -1,4 +1,4 @@
-# ビルディングパズル
+# ビルディング
 
 ## バリエーション
 - [Doppelblock Skyscrapers](doppelblock-skyscrapers.md)
@@ -30,6 +30,8 @@
 	- 15.1. ビルディング
 - [パズルジャパンオープン 2020](../questions/jwpc2020.md)
 	- 8.1-2. ビルディング
+- [WPC選抜大会 2022](../questions/jwpc2022.md)
+	- 10.1-2. ビルディング
 - [WPF PUZZLE GP 2016 ROUND 1](../questions/wpfpgp2016-1.md)
 	- Competitive11-13. Skyscrapers
 - [WPF PUZZLE GP 2016 ROUND 5](../questions/wpfpgp2016-5.md)

@@ -1,7 +1,7 @@
 # ガラスの街のビルディング
 
 ## オリジナル
-- [ビルディングパズル](skyscrapers.md)
+- [ビルディング](skyscrapers.md)
 
 ## 問題
 - [WPC選抜大会 2017](../questions/jwpc2017.md)

@@ -16,6 +16,8 @@
 	- 5\. スネーク
 - [WPC選抜大会 2018](../questions/jwpc2018.md)
 	- 16.1. スネーク
+- [WPC選抜大会 2022](../questions/jwpc2022.md)
+	- 9.1-2. スネーク
 - [WPF PUZZLE GP 2016 ROUND 2](../questions/wpfpgp2016-2.md)
 	- 33-36. Snake
 - [WPF PUZZLE GP 2016 ROUND 8](../questions/wpfpgp2016-8.md)

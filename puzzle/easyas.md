@@ -21,6 +21,8 @@
 	- 14.1. ABCプレース
 - [パズルジャパンオープン 2020](../questions/jwpc2020.md)
 	- 12.1-2. ABCプレース
+- [WPC選抜大会 2022](../questions/jwpc2022.md)
+	- 14.1-2. ABCプレース
 - [WPF PUZZLE GP 2016 ROUND 7](../questions/wpfpgp2016-7.md)
 	- 19-21. Easy as...
 - [WPF PUZZLE GP 2016 ROUND 8](../questions/wpfpgp2016-8.md)

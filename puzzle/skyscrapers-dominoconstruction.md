@@ -2,7 +2,7 @@
 
 ## オリジナル
 - [Domino Construction](dominoconstruction.md)
-- [ビルディングパズル](skyscrapers.md)
+- [ビルディング](skyscrapers.md)
 
 ## 問題
 - [WPF PUZZLE GP 2016 ROUND 8](../questions/wpfpgp2016-8.md)

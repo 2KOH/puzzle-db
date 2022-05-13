@@ -18,6 +18,8 @@
 	- 13.1. 間■仕■切■り
 - [パズルジャパンオープン 2020](../questions/jwpc2020.md)
 	- 17.1-2. 間■仕■切■り
+- [WPC選抜大会 2022](../questions/jwpc2022.md)
+	- 18.1-2. 間■仕■切■り
 - [WPF PUZZLE GP 2016 ROUND 1](../questions/wpfpgp2016-1.md)
 	- Competitive8-10. Nurikabe
 - [WPF PUZZLE GP 2017 ROUND 2](../questions/wpfpgp2017-2.md)

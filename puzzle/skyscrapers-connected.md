@@ -1,7 +1,7 @@
 # ビルディングの輪
 
 ## オリジナル
-- [ビルディングパズル](skyscrapers.md)
+- [ビルディング](skyscrapers.md)
 
 ## 問題
 - [パズルジャパンオープン 2021](../questions/jwpc2021.md)

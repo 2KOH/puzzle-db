@@ -20,6 +20,8 @@
 	- 1\. 吉例クロスマッス
 - [パズルジャパンオープン 2021](../questions/jwpc2021.md)
 	- 1\. 吉例クロスマッス
+- [WPC選抜大会 2022](../questions/jwpc2022.md)
+	- 1\. 吉例クロスマッス
 - [WPF PUZZLE GP 2016 ROUND 5](../questions/wpfpgp2016-5.md)
 	- 11-12. Arithmetic Square
 - [WPF PUZZLE GP 2016 ROUND 6](../questions/wpfpgp2016-6.md)

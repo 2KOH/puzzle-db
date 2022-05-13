@@ -5,6 +5,8 @@
 	- 2\. 覆面サム
 - [パズルジャパンオープン 2021](../questions/jwpc2021.md)
 	- 2\. 覆面サム
+- [WPC選抜大会 2022](../questions/jwpc2022.md)
+	- 2\. 覆面サム
 - [WPF PUZZLE GP 2016 ROUND 6](../questions/wpfpgp2016-6.md)
 	- 1-3. Letter Weights
 - [WPF PUZZLE GP 2016 ROUND 7](../questions/wpfpgp2016-7.md)

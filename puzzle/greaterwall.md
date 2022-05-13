@@ -1,7 +1,7 @@
 # Greater Wall
 
 ## オリジナル
-- [Coral](coral.md)
+- [コーラル](coral.md)
 - [お絵かきロジック](paintbynumbers.md)
 
 ## 問題

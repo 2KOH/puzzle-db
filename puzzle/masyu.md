@@ -8,6 +8,8 @@
 - [Masyu (Single Liar)](masyu-singleliar.md)
 
 ## 問題
+- [WPC選抜大会 2022](../questions/jwpc2022.md)
+	- 17.1-2. パールネックレス
 - [WPF PUZZLE GP 2016 ROUND 2](../questions/wpfpgp2016-2.md)
 	- 21-24. Masyu
 - [WPF PUZZLE GP 2016 ROUND 4](../questions/wpfpgp2016-4.md)

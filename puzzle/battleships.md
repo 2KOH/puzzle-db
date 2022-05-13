@@ -22,6 +22,8 @@
 	- 5.1-2. バトルシップ
 - [パズルジャパンオープン 2021](../questions/jwpc2021.md)
 	- 11.1-2. バトルシップ
+- [WPC選抜大会 2022](../questions/jwpc2022.md)
+	- 16.1-2. バトルシップ
 - [WPF PUZZLE GP 2016 ROUND 1](../questions/wpfpgp2016-1.md)
 	- Casual16-18. Battleships
 - [WPF PUZZLE GP 2017 ROUND 1](../questions/wpfpgp2017-1.md)

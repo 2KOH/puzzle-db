@@ -7,6 +7,8 @@
 - [Spiral Galaxies + Tetrominoes](spiralgalaxies-tetrominoes.md)
 
 ## 問題
+- [WPC選抜大会 2022](../questions/jwpc2022.md)
+	- 22.1-2. 点対称分割
 - [WPF PUZZLE GP 2016 ROUND 1](../questions/wpfpgp2016-1.md)
 	- Competitive5-7. Spiral Galaxies
 - [WPF PUZZLE GP 2016 ROUND 2](../questions/wpfpgp2016-2.md)

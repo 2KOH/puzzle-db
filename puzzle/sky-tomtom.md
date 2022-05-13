@@ -1,7 +1,7 @@
 # SkyTomTom
 
 ## オリジナル
-- [ビルディングパズル](skyscrapers.md)
+- [ビルディング](skyscrapers.md)
 - [TomTom](tomtom.md)
 
 ## 問題

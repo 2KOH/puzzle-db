@@ -11,6 +11,8 @@
 	- 6\. スターバトル
 - [パズルジャパンオープン 2020](../questions/jwpc2020.md)
 	- 10.1-2. スターバトル
+- [WPC選抜大会 2022](../questions/jwpc2022.md)
+	- 13.1-2. スターバトル
 - [WPF PUZZLE GP 2016 ROUND 3](../questions/wpfpgp2016-3.md)
 	- 14-17. Star Battle
 - [WPF PUZZLE GP 2016 ROUND 4](../questions/wpfpgp2016-4.md)

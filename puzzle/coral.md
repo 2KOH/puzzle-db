@@ -1,10 +1,12 @@
-# Coral
+# コーラル
 
 ## バリエーション
 - [Coral (Overlapping)](coral-overlapping.md)
 - [Greater Wall](greaterwall.md)
 
 ## 問題
+- [WPC選抜大会 2022](../questions/jwpc2022.md)
+	- 20.1-2. コーラル
 - [WPF PUZZLE GP 2018 ROUND 4](../questions/wpfpgp2018-4.md)
 	- 15\. Coral
 - [WPF PUZZLE GP 2019 ROUND 6](../questions/wpfpgp2019-6.md)

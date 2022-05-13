@@ -6,6 +6,8 @@
 - [Six Winds](sixwinds.md)
 
 ## 問題
+- [WPC選抜大会 2022](../questions/jwpc2022.md)
+	- 15.1-2. ウォールロジック
 - [WPF PUZZLE GP 2016 ROUND 1](../questions/wpfpgp2016-1.md)
 	- Competitive1-4. Four Winds
 - [WPF PUZZLE GP 2017 ROUND 3](../questions/wpfpgp2017-3.md)

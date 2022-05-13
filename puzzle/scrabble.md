@@ -6,6 +6,8 @@
 ## 問題
 - [パズルジャパンオープン 2020](../questions/jwpc2020.md)
 	- 3\. 親切なセルフスケルトン
+- [WPC選抜大会 2022](../questions/jwpc2022.md)
+	- 3\. 親切なセルフスケルトン
 - [WPF PUZZLE GP 2016 ROUND 6](../questions/wpfpgp2016-6.md)
 	- 30-32. Scrabble
 - [WPF PUZZLE GP 2016 ROUND 8](../questions/wpfpgp2016-8.md)

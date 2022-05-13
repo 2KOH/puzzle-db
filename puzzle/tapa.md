@@ -16,6 +16,8 @@
 	- 11.1-2. Tapa
 - [パズルジャパンオープン 2021](../questions/jwpc2021.md)
 	- 12.1-2. Tapa
+- [WPC選抜大会 2022](../questions/jwpc2022.md)
+	- 4.1-2. Tapa
 - [WPF PUZZLE GP 2017 ROUND 2](../questions/wpfpgp2017-2.md)
 	- A1. Tapa
 	- B1-2. Tapa

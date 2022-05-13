@@ -23,6 +23,8 @@
 	- 24\. ループメーカー
 - [パズルジャパンオープン 2021](../questions/jwpc2021.md)
 	- 23\. ループメーカー
+- [WPC選抜大会 2022](../questions/jwpc2022.md)
+	- 21.1-2. ループメーカー
 - [WPF PUZZLE GP 2016 ROUND 1](../questions/wpfpgp2016-1.md)
 	- Competitive14-16. Slitherlink
 - [WPF PUZZLE GP 2016 ROUND 5](../questions/wpfpgp2016-5.md)

@@ -10,6 +10,8 @@
 ## 問題
 - [パズルジャパンオープン 2020](../questions/jwpc2020.md)
 	- 20.1-2. ノータッチ・ペントミノ分割
+- [WPC選抜大会 2022](../questions/jwpc2022.md)
+	- 5.1-2. ノータッチ・ペントミノ分割
 - [WPF PUZZLE GP 2016 ROUND 6](../questions/wpfpgp2016-6.md)
 	- 27-29. Pentominous
 - [WPF PUZZLE GP 2018 ROUND 7](../questions/wpfpgp2018-7.md)
