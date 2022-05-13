@@ -1,0 +1,33 @@
+# WPF PUZZLE GP 2017 ROUND 8
+
+## 問題
+- A1-2. [Yajinurikabelin](../puzzle/yajinurikabelin.md)
+- A3. [Mastermind-Nurikabe-Yajilin](../puzzle/mastermind-nurikabe-yajilin.md)
+- A4-5. [Shapeskyscrapers](../puzzle/skyscrapers-shapes.md)
+- A6. [Connected-Shapesweeper-Skyscrapers](../puzzle/shapesweeper-skyscrapers-connected.md)
+- A7-8. [Snake Pit](../puzzle/snake-pit.md)
+- A9. [Cipher-Fillomino-Snake](../puzzle/fillomino-snake-encoded.md)
+- B1-2. [Nurikabe](../puzzle/nurikabe.md)
+- B3-4. [Yajilin](../puzzle/yajilin.md)
+- B5-6. [Fillomino](../puzzle/fillomino.md)
+- B7-8. [Snake](../puzzle/snake.md)
+- B9-10. [Skyscrapers](../puzzle/skyscrapers.md)
+- B11-12. [Shapesweeper](../puzzle/shapesweeper.md)
+- C1-2. [Mastermind](../puzzle/mastermind.md)
+- C3-4. [Find the Match](../puzzle/findthematch.md)
+- C5-6. [Fill in the Blank](../puzzle/fillintheblank.md)
+- C7-8. [Not Like the Others](../puzzle/notliketheothers.md)
+- C9-12. [Simple Loop](../puzzle/simpleloop.md)
+- C13-14. [Tic-Tac-Logic](../puzzle/tictaclogic.md)
+- C15-17. [Paint by Some Numbers](../puzzle/paintbynumbers-some.md)
+- C18. [Nurikabe](../puzzle/nurikabe.md)
+- C19. [Yajilin](../puzzle/yajilin.md)
+- C20. [Fillomino](../puzzle/fillomino.md)
+- C21. [Snake](../puzzle/snake.md)
+- C22. [Shapesweeper](../puzzle/shapesweeper.md)
+- C23. [Skyscrapers](../puzzle/skyscrapers.md)
+
+## リンク
+- [WPF Puzzle GP8](https://gp.worldpuzzle.org/content/wpf-puzzle-gp8-1)
+- [Instruction Booklet](https://gp.worldpuzzle.org/content/instruction-booklet-64)
+- [Competition Puzzles](https://gp.worldpuzzle.org/content/competition-puzzles-29)

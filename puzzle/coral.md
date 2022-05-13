@@ -1,0 +1,13 @@
+# Coral
+
+## バリエーション
+- [Coral (Overlapping)](coral-overlapping.md)
+- [Greater Wall](greaterwall.md)
+
+## 問題
+- [WPF PUZZLE GP 2018 ROUND 4](../questions/wpfpgp2018-4.md)
+	- 15. Coral
+- [WPF PUZZLE GP 2019 ROUND 6](../questions/wpfpgp2019-6.md)
+	- 16-17. Coral
+- [WPF PUZZLE GP 2021 ROUND 3](../questions/wpfpgp2021-3.md)
+	- 20. Coral

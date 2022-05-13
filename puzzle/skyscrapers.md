@@ -1,0 +1,78 @@
+# ビルディングパズル
+
+## バリエーション
+- [Doppelblock Skyscrapers](doppelblock-skyscrapers.md)
+- [Connected-Shapesweeper-Skyscrapers](shapesweeper-skyscrapers-connected.md)
+- [SkyTomTom](sky-tomtom.md)
+- [Skyscraper Blocks](skyscraper-blocks.md)
+- [Skyscraper Nurikabe](skyscraper-nurikabe.md)
+- [Skyscraper Sums](skyscraper-sums.md)
+- [Skyscrapers (Big Cells)](skyscrapers-bigcells.md)
+- [ビルディングの輪](skyscrapers-connected.md)
+- [Skyscrapers (diagonal)](skyscrapers-diagonal.md)
+- [Skyscrapers Domino Construction](skyscrapers-dominoconstruction.md)
+- [ドミノビルディングパズル](skyscrapers-dominos.md)
+- [覆面ビルディングパズル](skyscrapers-encoded.md)
+- [Skyscrapers (Full Evens)](skyscrapers-fullevens.md)
+- [Skyscrapers (Hex)](skyscrapers-hex.md)
+- [幾何学ビルディング](skyscrapers-irregular.md)
+- [Multiview Skyscrapers](skyscrapers-multiview.md)
+- [Skyscrapers (Park)](skyscrapers-park.md)
+- [Skyscrapers (Relations)](skyscrapers-relations.md)
+- [Shapeskyscrapers](skyscrapers-shapes.md)
+- [ガラスの街のビルディング](skyscrapers-uncounted.md)
+- [中庭ビルディング](skyscrapers-x.md)
+
+## 問題
+- [WPC選抜大会 2016](../questions/jwpc2016.md)
+	- 20. ビルディングパズル
+- [WPC選抜大会 2018](../questions/jwpc2018.md)
+	- 15.1. ビルディング
+- [パズルジャパンオープン 2020](../questions/jwpc2020.md)
+	- 8.1-2. ビルディング
+- [WPF PUZZLE GP 2016 ROUND 1](../questions/wpfpgp2016-1.md)
+	- Competitive11-13. Skyscrapers
+- [WPF PUZZLE GP 2016 ROUND 5](../questions/wpfpgp2016-5.md)
+	- 17-18. Skyscrapers
+- [WPF PUZZLE GP 2017 ROUND 1](../questions/wpfpgp2017-1.md)
+	- B1-2. Skyscrapers
+- [WPF PUZZLE GP 2017 ROUND 3](../questions/wpfpgp2017-3.md)
+	- A11-12. Skyscrapers
+- [WPF PUZZLE GP 2017 ROUND 4](../questions/wpfpgp2017-4.md)
+	- A8. Skyscrapers
+	- B8. Skyscrapers
+- [WPF PUZZLE GP 2017 ROUND 5](../questions/wpfpgp2017-5.md)
+	- B12,14,16. Skyscrapers
+- [WPF PUZZLE GP 2017 ROUND 6x](../questions/wpfpgp2017-6x.md)
+	- 15. Skyscrapers
+- [WPF PUZZLE GP 2017 ROUND 7](../questions/wpfpgp2017-7.md)
+	- C11-13. Skyscrapers
+- [WPF PUZZLE GP 2017 ROUND 8](../questions/wpfpgp2017-8.md)
+	- B9-10. Skyscrapers
+	- C23. Skyscrapers
+- [WPF PUZZLE GP 2018 ROUND 4](../questions/wpfpgp2018-4.md)
+	- 7. Skyscrapers
+- [WPF PUZZLE GP 2018 ROUND 5](../questions/wpfpgp2018-5.md)
+	- 6-7. Skyscrapers
+- [WPF PUZZLE GP 2018 ROUND 7](../questions/wpfpgp2018-7.md)
+	- 10-11. Skyscrapers
+- [WPF PUZZLE GP 2019 ROUND 1](../questions/wpfpgp2019-1.md)
+	- 3-4. Skyscrapers
+- [WPF PUZZLE GP 2019 ROUND 3](../questions/wpfpgp2019-3.md)
+	- 13. Skyscrapers
+- [WPF PUZZLE GP 2019 ROUND 4](../questions/wpfpgp2019-4.md)
+	- 8-9. Skyscrapers
+- [WPF PUZZLE GP 2019 PLAYOFFS](../questions/wpfpgp2019-po.md)
+	- 3. Skyscrapers
+- [WPF PUZZLE GP 2020 ROUND 2](../questions/wpfpgp2020-2.md)
+	- 13-15. Skyscrapers
+- [WPF PUZZLE GP 2020 ROUND 4](../questions/wpfpgp2020-4.md)
+	- 6. Skyscrapers
+- [WPF PUZZLE GP 2020 ROUND 7](../questions/wpfpgp2020-7.md)
+	- 13-14. Skyscrapers
+- [WPF PUZZLE GP 2020 ROUND 8](../questions/wpfpgp2020-8.md)
+	- 3. Skyscrapers
+- [WPF PUZZLE GP 2021 ROUND 3](../questions/wpfpgp2021-3.md)
+	- 8. Skyscrapers
+- [WPF PUZZLE GP 2021 ROUND 6](../questions/wpfpgp2021-6.md)
+	- 10. Skyscrapers

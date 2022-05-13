@@ -1,0 +1,51 @@
+# Tapa
+
+## バリエーション
+- [Full Tapa](full-tapa.md)
+- [LITS (Tapa)](lits-tapa.md)
+- [Loop (Tapa)](loop-tapa.md)
+- [Tapa (Transparent)](tapa-transparent.md)
+- [Tapa (Unknowns, Coupled)](tapa-unknownscoupled.md)
+- [Tapa (Wall)](tapa-wall.md)
+- [Twopa](twopa.md)
+
+## 問題
+- [WPC選抜大会 2018](../questions/jwpc2018.md)
+	- 5.1-2. Tapa
+- [パズルジャパンオープン 2020](../questions/jwpc2020.md)
+	- 11.1-2. Tapa
+- [パズルジャパンオープン 2021](../questions/jwpc2021.md)
+	- 12.1-2. Tapa
+- [WPF PUZZLE GP 2017 ROUND 2](../questions/wpfpgp2017-2.md)
+	- A1. Tapa
+	- B1-2. Tapa
+- [WPF PUZZLE GP 2017 ROUND 3](../questions/wpfpgp2017-3.md)
+	- B5-6. Tapa
+- [WPF PUZZLE GP 2017 ROUND 4](../questions/wpfpgp2017-4.md)
+	- A6. Tapa
+	- B6. Tapa
+- [WPF PUZZLE GP 2017 ROUND 7](../questions/wpfpgp2017-7.md)
+	- A5. Tapa
+- [WPF PUZZLE GP 2017 PLAYOFFS](../questions/wpfpgp2017-po.md)
+	- 2. Tapa
+- [WPF PUZZLE GP 2018 ROUND 1](../questions/wpfpgp2018-1.md)
+	- 12-13. Tapa
+- [WPF PUZZLE GP 2018 ROUND 7](../questions/wpfpgp2018-7.md)
+	- 8-9. Tapa
+- [WPF PUZZLE GP 2018 PLAYOFFS](../questions/wpfpgp2018-po.md)
+	- 1. Tapa
+- [WPF PUZZLE GP 2019 ROUND 1](../questions/wpfpgp2019-1.md)
+	- 10-11. Tapa
+- [WPF PUZZLE GP 2019 ROUND 6](../questions/wpfpgp2019-6.md)
+	- 1. Tapa
+- [WPF PUZZLE GP 2019 ROUND 8](../questions/wpfpgp2019-8.md)
+	- 5-6. Tapa
+- [WPF PUZZLE GP 2019 PLAYOFFS](../questions/wpfpgp2019-po.md)
+	- 6. Tapa
+	- Backup A. Tapa
+- [WPF PUZZLE GP 2021 ROUND 3](../questions/wpfpgp2021-3.md)
+	- 5. Tapa
+- [WPF PUZZLE GP 2021 ROUND 6](../questions/wpfpgp2021-6.md)
+	- 7. Tapa
+- [WPF PUZZLE GP 2021 ROUND 8](../questions/wpfpgp2021-8.md)
+	- 3. Tapa

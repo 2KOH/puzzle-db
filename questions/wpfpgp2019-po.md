@@ -1,0 +1,17 @@
+# WPF PUZZLE GP 2019 PLAYOFFS
+
+## 問題
+- 1. [Yajilin](../puzzle/yajilin.md)
+- 2. [Gaps (No Touch, Off by One)](../puzzle/gaps-notouch-offbyone.md)
+- 3. [Skyscrapers](../puzzle/skyscrapers.md)
+- 4. [Parade Sums](../puzzle/paradesums.md)
+- 5. [Pentomino Relations](../puzzle/pentominorelations.md)
+- 6. [Tapa](../puzzle/tapa.md)
+- 7. [Endpoints (Hex)](../puzzle/endpoints-hex.md)
+- 8. [Slitherlink](../puzzle/slitherlink.md)
+- Backup A. [Tapa](../puzzle/tapa.md)
+- Backup B. [Gaps (No Touch)](../puzzle/gaps-notouch.md)
+
+## リンク
+- [Finals](https://gp.worldpuzzle.org/content/finals-10)
+- [Final Results](https://gp.worldpuzzle.org/content/final-results-10)

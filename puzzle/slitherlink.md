@@ -1,0 +1,59 @@
+# スリザーリンク
+
+## バリエーション
+- [Slitherlink (Big Cells)](slitherlink-bigcells.md)
+- [似て非なるループメーカー](slitherlink-dual.md)
+- [覆面スリザーリンク](slitherlink-encoded.md)
+- [Slitherlink (Full Evens)](slitherlink-fullevens.md)
+- [六角ループメーカー](slitherlink-hex.md)
+- [ウソつきループメーカー](slitherlink-liars.md)
+- [Slitherlink (No Swiss)](slitherlink-noswiss.md)
+- [Slitherlink (Out-Liars)](slitherlink-outliars.md)
+- [Slitherlink (Pentominoes)](slitherlink-pentominoes.md)
+- [Slitherlink (Unequal Lengths)](slitherlink-unequallengths.md)
+- [Slitherlink (Wolves and Sheep)](slitherlink-wolvesandsheep.md)
+- [Yin-Yang Slitherlink](yinyang-slitherlink.md)
+
+## 問題
+- [WPC選抜大会 2017](../questions/jwpc2017.md)
+	- 9. ループメーカー
+- [WPC選抜大会 2018](../questions/jwpc2018.md)
+	- 2.1-2. ループメーカー
+- [パズルジャパンオープン 2020](../questions/jwpc2020.md)
+	- 24. ループメーカー
+- [パズルジャパンオープン 2021](../questions/jwpc2021.md)
+	- 23. ループメーカー
+- [WPF PUZZLE GP 2016 ROUND 1](../questions/wpfpgp2016-1.md)
+	- Competitive14-16. Slitherlink
+- [WPF PUZZLE GP 2016 ROUND 5](../questions/wpfpgp2016-5.md)
+	- 19-21. Slitherlink
+- [WPF PUZZLE GP 2016 PLAYOFFS](../questions/wpfpgp2016-po.md)
+	- 1. Slitherlink
+- [WPF PUZZLE GP 2017 ROUND 1](../questions/wpfpgp2017-1.md)
+	- A1-3. Slitherlink
+- [WPF PUZZLE GP 2017 ROUND 3](../questions/wpfpgp2017-3.md)
+	- B7-8. Slitherlink
+- [WPF PUZZLE GP 2017 ROUND 4](../questions/wpfpgp2017-4.md)
+	- A4. Slitherlink
+	- B4. Slitherlink
+- [WPF PUZZLE GP 2017 ROUND 6x](../questions/wpfpgp2017-6x.md)
+	- 8-10. Slitherlink
+- [WPF PUZZLE GP 2017 PLAYOFFS](../questions/wpfpgp2017-po.md)
+	- 5. Slitherlink
+	- 6. Slitherlink
+- [WPF PUZZLE GP 2018 ROUND 1](../questions/wpfpgp2018-1.md)
+	- 5-6. Slitherlink
+- [WPF PUZZLE GP 2018 ROUND 4](../questions/wpfpgp2018-4.md)
+	- 12. Slitherlink
+- [WPF PUZZLE GP 2018 ROUND 5](../questions/wpfpgp2018-5.md)
+	- 5. Slitherlink
+- [WPF PUZZLE GP 2019 ROUND 8](../questions/wpfpgp2019-8.md)
+	- 11-12. Slitherlink
+- [WPF PUZZLE GP 2019 PLAYOFFS](../questions/wpfpgp2019-po.md)
+	- 8. Slitherlink
+- [WPF PUZZLE GP 2021 ROUND 3](../questions/wpfpgp2021-3.md)
+	- 6. Slitherlink
+- [WPF PUZZLE GP 2021 ROUND 5](../questions/wpfpgp2021-5.md)
+	- 16. Slitherlink
+- [WPF PUZZLE GP 2021 ROUND 8](../questions/wpfpgp2021-8.md)
+	- 16. Slitherlink
