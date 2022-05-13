@@ -17,7 +17,7 @@ searchText.addEventListener('input', () => {
 	console.log('ok')
 	const regExp = new RegExp(`^(${ [...search(searchText.value)].join('|') })$`)
 	for (const li of document.querySelector('#search-text').parentNode.parentNode.querySelectorAll('li')) {
-		const id = li.querySelector('a').href.match(/puzzle\/(.*?).md$/)[1]
+		const id = li.querySelector('a').href.match(/puzzle\/(.*?).html$/)[1]
 		li.style.display = regExp.test(id) ? '' : 'none'
 	}
 })
