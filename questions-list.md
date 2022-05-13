@@ -72,3 +72,4 @@
 - [WPC選抜大会 2019](questions/jwpc2019.md)
 - [パズルジャパンオープン 2020](questions/jwpc2020.md)
 - [パズルジャパンオープン 2021](questions/jwpc2021.md)
+- [WPC選抜大会 2022](questions/jwpc2022.md)
