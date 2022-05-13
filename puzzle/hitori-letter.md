@@ -5,4 +5,4 @@
 
 ## 問題
 - [WPF PUZZLE GP 2017 ROUND 6x](../questions/wpfpgp2017-6x.md)
-	- 7. Letter Hitori
+	- 7\. Letter Hitori

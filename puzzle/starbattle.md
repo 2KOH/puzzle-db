@@ -8,7 +8,7 @@
 
 ## 問題
 - [WPC選抜大会 2017](../questions/jwpc2017.md)
-	- 6. スターバトル
+	- 6\. スターバトル
 - [パズルジャパンオープン 2020](../questions/jwpc2020.md)
 	- 10.1-2. スターバトル
 - [WPF PUZZLE GP 2016 ROUND 3](../questions/wpfpgp2016-3.md)
@@ -23,14 +23,14 @@
 	- A1. Star Battle
 	- B1. Star Battle
 - [WPF PUZZLE GP 2017 ROUND 6x](../questions/wpfpgp2017-6x.md)
-	- 6. Star Battle
+	- 6\. Star Battle
 - [WPF PUZZLE GP 2017 ROUND 7](../questions/wpfpgp2017-7.md)
 	- A2. Star Battle
 	- B5-6. Star Battle
 - [WPF PUZZLE GP 2017 PLAYOFFS](../questions/wpfpgp2017-po.md)
-	- 3. Star Battle
+	- 3\. Star Battle
 - [WPF PUZZLE GP 2018 ROUND 3](../questions/wpfpgp2018-3.md)
-	- 14. Objects: Star Battle
+	- 14\. Objects: Star Battle
 - [WPF PUZZLE GP 2018 ROUND 7](../questions/wpfpgp2018-7.md)
 	- 14-15. Star Battle
 - [WPF PUZZLE GP 2019 ROUND 5](../questions/wpfpgp2019-5.md)
@@ -38,12 +38,12 @@
 - [WPF PUZZLE GP 2019 ROUND 8](../questions/wpfpgp2019-8.md)
 	- 13-14. Star Battle
 - [WPF PUZZLE GP 2020 ROUND 4](../questions/wpfpgp2020-4.md)
-	- 10. Star Battle
+	- 10\. Star Battle
 - [WPF PUZZLE GP 2020 ROUND 5](../questions/wpfpgp2020-5.md)
-	- 11. Star Battle
+	- 11\. Star Battle
 - [WPF PUZZLE GP 2021 ROUND 3](../questions/wpfpgp2021-3.md)
-	- 3. Star Battle
+	- 3\. Star Battle
 - [WPF PUZZLE GP 2021 ROUND 6](../questions/wpfpgp2021-6.md)
-	- 9. Star Battle
+	- 9\. Star Battle
 - [WPF PUZZLE GP 2021 ROUND 8](../questions/wpfpgp2021-8.md)
-	- 18. Star Battle
+	- 18\. Star Battle

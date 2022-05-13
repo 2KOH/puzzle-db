@@ -6,4 +6,4 @@
 - [WPF PUZZLE GP 2018 ROUND 2](../questions/wpfpgp2018-2.md)
 	- 15-16. Tic-Tac-Logic
 - [WPF PUZZLE GP 2018 PLAYOFFS](../questions/wpfpgp2018-po.md)
-	- 3. Tic-Tac-Logic
+	- 3\. Tic-Tac-Logic

@@ -10,10 +10,10 @@
 
 ## 問題
 - [WPC選抜大会 2017](../questions/jwpc2017.md)
-	- 2. ボンバーパズル
+	- 2\. ボンバーパズル
 - [WPF PUZZLE GP 2016 ROUND 5](../questions/wpfpgp2016-5.md)
 	- 15-16. Minesweeper
 - [WPF PUZZLE GP 2017 ROUND 6x](../questions/wpfpgp2017-6x.md)
-	- 5. Minesweeper
+	- 5\. Minesweeper
 - [WPF PUZZLE GP 2020 ROUND 1](../questions/wpfpgp2020-1.md)
-	- 6. Minesweeper
+	- 6\. Minesweeper

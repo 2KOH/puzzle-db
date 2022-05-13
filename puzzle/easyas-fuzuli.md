@@ -9,4 +9,4 @@
 
 ## 問題
 - [WPF PUZZLE GP 2019 ROUND 5](../questions/wpfpgp2019-5.md)
-	- 14. Easy As... (Fuzuli)
+	- 14\. Easy As... (Fuzuli)

@@ -27,25 +27,25 @@
 - [WPF PUZZLE GP 2017 ROUND 7](../questions/wpfpgp2017-7.md)
 	- A5. Tapa
 - [WPF PUZZLE GP 2017 PLAYOFFS](../questions/wpfpgp2017-po.md)
-	- 2. Tapa
+	- 2\. Tapa
 - [WPF PUZZLE GP 2018 ROUND 1](../questions/wpfpgp2018-1.md)
 	- 12-13. Tapa
 - [WPF PUZZLE GP 2018 ROUND 7](../questions/wpfpgp2018-7.md)
 	- 8-9. Tapa
 - [WPF PUZZLE GP 2018 PLAYOFFS](../questions/wpfpgp2018-po.md)
-	- 1. Tapa
+	- 1\. Tapa
 - [WPF PUZZLE GP 2019 ROUND 1](../questions/wpfpgp2019-1.md)
 	- 10-11. Tapa
 - [WPF PUZZLE GP 2019 ROUND 6](../questions/wpfpgp2019-6.md)
-	- 1. Tapa
+	- 1\. Tapa
 - [WPF PUZZLE GP 2019 ROUND 8](../questions/wpfpgp2019-8.md)
 	- 5-6. Tapa
 - [WPF PUZZLE GP 2019 PLAYOFFS](../questions/wpfpgp2019-po.md)
-	- 6. Tapa
-	- Backup A. Tapa
+	- 6\. Tapa
+	- BackupA. Tapa
 - [WPF PUZZLE GP 2021 ROUND 3](../questions/wpfpgp2021-3.md)
-	- 5. Tapa
+	- 5\. Tapa
 - [WPF PUZZLE GP 2021 ROUND 6](../questions/wpfpgp2021-6.md)
-	- 7. Tapa
+	- 7\. Tapa
 - [WPF PUZZLE GP 2021 ROUND 8](../questions/wpfpgp2021-8.md)
-	- 3. Tapa
+	- 3\. Tapa

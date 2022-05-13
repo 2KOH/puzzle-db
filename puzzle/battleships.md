@@ -15,7 +15,7 @@
 
 ## 問題
 - [WPC選抜大会 2016](../questions/jwpc2016.md)
-	- 14. バトルシップ
+	- 14\. バトルシップ
 - [WPC選抜大会 2019](../questions/jwpc2019.md)
 	- 13.1-2. バトルシップ
 - [パズルジャパンオープン 2020](../questions/jwpc2020.md)
@@ -32,10 +32,10 @@
 - [WPF PUZZLE GP 2018 ROUND 2](../questions/wpfpgp2018-2.md)
 	- 10-12. Battleships
 - [WPF PUZZLE GP 2019 ROUND 7](../questions/wpfpgp2019-7.md)
-	- 1. Battleships
+	- 1\. Battleships
 - [WPF PUZZLE GP 2021 ROUND 3](../questions/wpfpgp2021-3.md)
-	- 13. Battleships
+	- 13\. Battleships
 - [WPF PUZZLE GP 2021 ROUND 6](../questions/wpfpgp2021-6.md)
-	- 8. Battleships
+	- 8\. Battleships
 - [WPF PUZZLE GP 2021 ROUND 7](../questions/wpfpgp2021-7.md)
-	- 5. Battleships
+	- 5\. Battleships

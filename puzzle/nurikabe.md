@@ -13,7 +13,7 @@
 
 ## 問題
 - [WPC選抜大会 2016](../questions/jwpc2016.md)
-	- 12. 間■仕■切■り
+	- 12\. 間■仕■切■り
 - [WPC選抜大会 2018](../questions/jwpc2018.md)
 	- 13.1. 間■仕■切■り
 - [パズルジャパンオープン 2020](../questions/jwpc2020.md)
@@ -29,7 +29,7 @@
 	- A7. Nurikabe
 	- B7. Nurikabe
 - [WPF PUZZLE GP 2017 ROUND 6x](../questions/wpfpgp2017-6x.md)
-	- 17. Nurikabe
+	- 17\. Nurikabe
 - [WPF PUZZLE GP 2017 ROUND 7](../questions/wpfpgp2017-7.md)
 	- A6. Nurikabe
 - [WPF PUZZLE GP 2017 ROUND 8](../questions/wpfpgp2017-8.md)
@@ -38,7 +38,7 @@
 - [WPF PUZZLE GP 2018 ROUND 3](../questions/wpfpgp2018-3.md)
 	- 19-20. Shading: Nurikabe
 - [WPF PUZZLE GP 2018 ROUND 4](../questions/wpfpgp2018-4.md)
-	- 6. Nurikabe
+	- 6\. Nurikabe
 - [WPF PUZZLE GP 2020 ROUND 2](../questions/wpfpgp2020-2.md)
 	- 8-10. Nurikabe
 - [WPF PUZZLE GP 2020 ROUND 3](../questions/wpfpgp2020-3.md)
@@ -46,7 +46,7 @@
 - [WPF PUZZLE GP 2020 ROUND 7](../questions/wpfpgp2020-7.md)
 	- 3-4. Nurikabe
 - [WPF PUZZLE GP 2020 ROUND 8](../questions/wpfpgp2020-8.md)
-	- 15. Nurikabe
+	- 15\. Nurikabe
 - [WPF PUZZLE GP 2021 ROUND 3](../questions/wpfpgp2021-3.md)
-	- 4. Nurikabe
-	- 12. Nurikabe
+	- 4\. Nurikabe
+	- 12\. Nurikabe

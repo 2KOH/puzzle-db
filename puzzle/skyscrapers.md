@@ -25,7 +25,7 @@
 
 ## 問題
 - [WPC選抜大会 2016](../questions/jwpc2016.md)
-	- 20. ビルディングパズル
+	- 20\. ビルディングパズル
 - [WPC選抜大会 2018](../questions/jwpc2018.md)
 	- 15.1. ビルディング
 - [パズルジャパンオープン 2020](../questions/jwpc2020.md)
@@ -44,14 +44,14 @@
 - [WPF PUZZLE GP 2017 ROUND 5](../questions/wpfpgp2017-5.md)
 	- B12,14,16. Skyscrapers
 - [WPF PUZZLE GP 2017 ROUND 6x](../questions/wpfpgp2017-6x.md)
-	- 15. Skyscrapers
+	- 15\. Skyscrapers
 - [WPF PUZZLE GP 2017 ROUND 7](../questions/wpfpgp2017-7.md)
 	- C11-13. Skyscrapers
 - [WPF PUZZLE GP 2017 ROUND 8](../questions/wpfpgp2017-8.md)
 	- B9-10. Skyscrapers
 	- C23. Skyscrapers
 - [WPF PUZZLE GP 2018 ROUND 4](../questions/wpfpgp2018-4.md)
-	- 7. Skyscrapers
+	- 7\. Skyscrapers
 - [WPF PUZZLE GP 2018 ROUND 5](../questions/wpfpgp2018-5.md)
 	- 6-7. Skyscrapers
 - [WPF PUZZLE GP 2018 ROUND 7](../questions/wpfpgp2018-7.md)
@@ -59,20 +59,20 @@
 - [WPF PUZZLE GP 2019 ROUND 1](../questions/wpfpgp2019-1.md)
 	- 3-4. Skyscrapers
 - [WPF PUZZLE GP 2019 ROUND 3](../questions/wpfpgp2019-3.md)
-	- 13. Skyscrapers
+	- 13\. Skyscrapers
 - [WPF PUZZLE GP 2019 ROUND 4](../questions/wpfpgp2019-4.md)
 	- 8-9. Skyscrapers
 - [WPF PUZZLE GP 2019 PLAYOFFS](../questions/wpfpgp2019-po.md)
-	- 3. Skyscrapers
+	- 3\. Skyscrapers
 - [WPF PUZZLE GP 2020 ROUND 2](../questions/wpfpgp2020-2.md)
 	- 13-15. Skyscrapers
 - [WPF PUZZLE GP 2020 ROUND 4](../questions/wpfpgp2020-4.md)
-	- 6. Skyscrapers
+	- 6\. Skyscrapers
 - [WPF PUZZLE GP 2020 ROUND 7](../questions/wpfpgp2020-7.md)
 	- 13-14. Skyscrapers
 - [WPF PUZZLE GP 2020 ROUND 8](../questions/wpfpgp2020-8.md)
-	- 3. Skyscrapers
+	- 3\. Skyscrapers
 - [WPF PUZZLE GP 2021 ROUND 3](../questions/wpfpgp2021-3.md)
-	- 8. Skyscrapers
+	- 8\. Skyscrapers
 - [WPF PUZZLE GP 2021 ROUND 6](../questions/wpfpgp2021-6.md)
-	- 10. Skyscrapers
+	- 10\. Skyscrapers

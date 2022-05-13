@@ -1,7 +1,7 @@
 # WPF PUZZLE GP 2019 ROUND 2
 
 ## 問題
-- 1. [Word Search](../puzzle/wordsearch.md)
+- 1\. [Word Search](../puzzle/wordsearch.md)
 - 2-4. [Pyramid Climbers](../puzzle/pyramidclimbers.md)
 - 5-7. [Column Dance](../puzzle/columndance.md)
 - 8-11. [Gaps (No Touch)](../puzzle/gaps-notouch.md)

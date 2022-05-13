@@ -1,7 +1,7 @@
 # WPF PUZZLE GP 2020 ROUND 3
 
 ## 問題
-- 1. [Arithmetic Square (Encrypted)](../puzzle/arithmeticsquare-encoded.md)
+- 1\. [Arithmetic Square (Encrypted)](../puzzle/arithmeticsquare-encoded.md)
 - 2-3. [Coins](../puzzle/coins.md)
 - 4-5. [Column Dance](../puzzle/columndance.md)
 - 6-7. [Arrow Maze](../puzzle/arrowmaze.md)

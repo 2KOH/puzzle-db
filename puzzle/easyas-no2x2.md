@@ -8,4 +8,4 @@
 
 ## 問題
 - [WPF PUZZLE GP 2021 ROUND 7](../questions/wpfpgp2021-7.md)
-	- 12. Easy As (no 2×2)
+	- 12\. Easy As (no 2×2)

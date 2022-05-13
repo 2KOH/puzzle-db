@@ -6,4 +6,4 @@
 
 ## 問題
 - [WPF PUZZLE GP 2021 ROUND 7](../questions/wpfpgp2021-7.md)
-	- 7. Kuromasu (Star Battle)
+	- 7\. Kuromasu (Star Battle)

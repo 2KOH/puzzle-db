@@ -2,7 +2,7 @@
 
 ## 問題
 - 1-2. [Elastic Words](../puzzle/elasticwords.md)
-- 3. [Find 5 Pairs](../puzzle/find5pairs.md)
+- 3\. [Find 5 Pairs](../puzzle/find5pairs.md)
 - 4-6. [Post-Its](../puzzle/postits.md)
 - 7-8. [Gaps (No Touch)](../puzzle/gaps-notouch.md)
 - 9-10. [Myopia](../puzzle/myopia.md)

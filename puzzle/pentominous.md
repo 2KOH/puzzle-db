@@ -15,16 +15,16 @@
 - [WPF PUZZLE GP 2018 ROUND 7](../questions/wpfpgp2018-7.md)
 	- 12-13. Pentominous
 - [WPF PUZZLE GP 2019 ROUND 3](../questions/wpfpgp2019-3.md)
-	- 9. Pentominous
+	- 9\. Pentominous
 - [WPF PUZZLE GP 2020 ROUND 8](../questions/wpfpgp2020-8.md)
-	- 18. Pentominous
+	- 18\. Pentominous
 - [WPF PUZZLE GP 2021 ROUND 2](../questions/wpfpgp2021-2.md)
-	- 11. Pentominous
+	- 11\. Pentominous
 - [WPF PUZZLE GP 2021 ROUND 3](../questions/wpfpgp2021-3.md)
-	- 15. Pentominous
+	- 15\. Pentominous
 - [WPF PUZZLE GP 2021 ROUND 5](../questions/wpfpgp2021-5.md)
-	- 12. Pentominous
+	- 12\. Pentominous
 - [WPF PUZZLE GP 2021 ROUND 6](../questions/wpfpgp2021-6.md)
-	- 2. Pentominous
+	- 2\. Pentominous
 - [WPF PUZZLE GP 2021 ROUND 8](../questions/wpfpgp2021-8.md)
-	- 19. Pentominous
+	- 19\. Pentominous

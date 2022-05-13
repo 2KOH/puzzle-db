@@ -7,12 +7,12 @@
 
 ## 問題
 - [WPC選抜大会 2017](../questions/jwpc2017.md)
-	- 10. テトロミノリンク
+	- 10\. テトロミノリンク
 - [パズルジャパンオープン 2020](../questions/jwpc2020.md)
 	- 6.1-2. テトロミノリンク
 - [WPF PUZZLE GP 2018 ROUND 8](../questions/wpfpgp2018-8.md)
 	- 7-8. LITS
 - [WPF PUZZLE GP 2020 ROUND 5](../questions/wpfpgp2020-5.md)
-	- 10. LITS
+	- 10\. LITS
 - [WPF PUZZLE GP 2021 ROUND 6](../questions/wpfpgp2021-6.md)
-	- 6. LITS
+	- 6\. LITS

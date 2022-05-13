@@ -16,7 +16,7 @@
 
 ## 問題
 - [WPC選抜大会 2016](../questions/jwpc2016.md)
-	- 19. ABCプレース
+	- 19\. ABCプレース
 - [WPC選抜大会 2018](../questions/jwpc2018.md)
 	- 14.1. ABCプレース
 - [パズルジャパンオープン 2020](../questions/jwpc2020.md)
@@ -36,12 +36,12 @@
 - [WPF PUZZLE GP 2019 ROUND 2](../questions/wpfpgp2019-2.md)
 	- 12-14. Easy As...
 - [WPF PUZZLE GP 2019 ROUND 7](../questions/wpfpgp2019-7.md)
-	- 5. Easy As...
+	- 5\. Easy As...
 - [WPF PUZZLE GP 2020 ROUND 6](../questions/wpfpgp2020-6.md)
 	- 13-14. Easy as...
 - [WPF PUZZLE GP 2021 ROUND 3](../questions/wpfpgp2021-3.md)
-	- 2. Easy As
+	- 2\. Easy As
 - [WPF PUZZLE GP 2021 ROUND 7](../questions/wpfpgp2021-7.md)
-	- 4. Easy As
+	- 4\. Easy As
 - [WPF PUZZLE GP 2021 ROUND 8](../questions/wpfpgp2021-8.md)
-	- 1. Easy As
+	- 1\. Easy As

@@ -6,7 +6,7 @@
 - [WPF PUZZLE GP 2016 ROUND 7](../questions/wpfpgp2016-7.md)
 	- 31-33. Pentopia
 - [WPF PUZZLE GP 2016 PLAYOFFS](../questions/wpfpgp2016-po.md)
-	- 7. Pentopia
+	- 7\. Pentopia
 - [WPF PUZZLE GP 2019 ROUND 1](../questions/wpfpgp2019-1.md)
 	- 14-15. Pentominoes (Myopia)
 - [WPF PUZZLE GP 2020 ROUND 7](../questions/wpfpgp2020-7.md)

@@ -5,4 +5,4 @@
 
 ## 問題
 - [WPF PUZZLE GP 2020 ROUND 8](../questions/wpfpgp2020-8.md)
-	- 5. Number Snake (orthogonal)
+	- 5\. Number Snake (orthogonal)

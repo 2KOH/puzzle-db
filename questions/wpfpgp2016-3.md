@@ -1,12 +1,12 @@
 # WPF PUZZLE GP 2016 ROUND 3
 
 ## 問題
-- 1. [Jigsaw Puzzle](../puzzle/jigsawpuzzle.md)
-- 2. [Photo Stream](../puzzle/photostream.md)
+- 1\. [Jigsaw Puzzle](../puzzle/jigsawpuzzle.md)
+- 2\. [Photo Stream](../puzzle/photostream.md)
 - 3-5. [Mastermind](../puzzle/mastermind.md)
 - 6-7. [Labyrinth](../puzzle/maze.md)
 - 8-10. [Arithmetic](../puzzle/arithmetic.md)
-- 11. [Find the Differences](../puzzle/findthedifferences.md)
+- 11\. [Find the Differences](../puzzle/findthedifferences.md)
 - 12-13. [Instructionless Machine](../puzzle/instructionlessmachine.md)
 - 14-17. [Star Battle](../puzzle/starbattle.md)
 - 18-21. [Yajilin](../puzzle/yajilin.md)

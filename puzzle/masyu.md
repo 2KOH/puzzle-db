@@ -16,18 +16,18 @@
 	- A2. Masyu
 	- B2. Masyu
 - [WPF PUZZLE GP 2017 ROUND 6x](../questions/wpfpgp2017-6x.md)
-	- 4. Masyu
+	- 4\. Masyu
 - [WPF PUZZLE GP 2018 ROUND 4](../questions/wpfpgp2018-4.md)
-	- 10. Masyu
+	- 10\. Masyu
 - [WPF PUZZLE GP 2018 ROUND 7](../questions/wpfpgp2018-7.md)
 	- 6-7. Masyu
 - [WPF PUZZLE GP 2019 ROUND 3](../questions/wpfpgp2019-3.md)
-	- 6. Masyu
+	- 6\. Masyu
 - [WPF PUZZLE GP 2020 ROUND 7](../questions/wpfpgp2020-7.md)
 	- 7-8. Masyu
 - [WPF PUZZLE GP 2020 ROUND 8](../questions/wpfpgp2020-8.md)
-	- 9. Masyu
+	- 9\. Masyu
 - [WPF PUZZLE GP 2021 ROUND 3](../questions/wpfpgp2021-3.md)
-	- 1. Masyu
+	- 1\. Masyu
 - [WPF PUZZLE GP 2021 ROUND 8](../questions/wpfpgp2021-8.md)
-	- 9. Masyu
+	- 9\. Masyu

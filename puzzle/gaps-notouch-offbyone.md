@@ -5,4 +5,4 @@
 
 ## 問題
 - [WPF PUZZLE GP 2019 PLAYOFFS](../questions/wpfpgp2019-po.md)
-	- 2. Gaps (No Touch, Off by One)
+	- 2\. Gaps (No Touch, Off by One)

@@ -6,6 +6,6 @@
 
 ## 問題
 - [WPF PUZZLE GP 2020 ROUND 1](../questions/wpfpgp2020-1.md)
-	- 18. Nanro
+	- 18\. Nanro
 - [WPF PUZZLE GP 2020 ROUND 3](../questions/wpfpgp2020-3.md)
 	- 20-21. Nanro

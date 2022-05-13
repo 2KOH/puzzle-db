@@ -5,7 +5,7 @@
 - 6-7. [Elastic Bands](../puzzle/elasticbands.md)
 - 8-9. [Letter Weights](../puzzle/letterweights.md)
 - 10-11. [Alphabet Blocks](../puzzle/alphabetblocks.md)
-- 12. [Stacked](../puzzle/stacked.md)
+- 12\. [Stacked](../puzzle/stacked.md)
 - 13-14. [Build a Criss-cross](../puzzle/builda-crisscross.md)
 - 15-18. [Build a Word Search](../puzzle/builda-wordsearch.md)
 - 19-21. [Easy as...](../puzzle/easyas.md)

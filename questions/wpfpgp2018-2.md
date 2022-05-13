@@ -4,7 +4,7 @@
 - 1-2. [Find the Matching Sets](../puzzle/findthematchingsets.md)
 - 3-4. [Column Dance](../puzzle/columndance.md)
 - 5-6. [Arithmetic Square](../puzzle/arithmeticsquare.md)
-- 7. [Shortest Distances](../puzzle/shortestdistances.md)
+- 7\. [Shortest Distances](../puzzle/shortestdistances.md)
 - 8-9. [Password Path](../puzzle/passwordpath.md)
 - 10-12. [Battleships](../puzzle/battleships.md)
 - 13-14. [Four Winds](../puzzle/fourwinds.md)

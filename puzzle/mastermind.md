@@ -6,7 +6,7 @@
 
 ## 問題
 - [WPC選抜大会 2016](../questions/jwpc2016.md)
-	- 2. マスターマインド
+	- 2\. マスターマインド
 - [WPF PUZZLE GP 2016 ROUND 2](../questions/wpfpgp2016-2.md)
 	- 1-4. Mastermind
 - [WPF PUZZLE GP 2016 ROUND 3](../questions/wpfpgp2016-3.md)

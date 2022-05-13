@@ -17,7 +17,7 @@
 
 ## 問題
 - [WPC選抜大会 2016](../questions/jwpc2016.md)
-	- 15. ループであろー
+	- 15\. ループであろー
 - [WPC選抜大会 2018](../questions/jwpc2018.md)
 	- 11.1. ループであろー
 - [WPC選抜大会 2019](../questions/jwpc2019.md)
@@ -31,7 +31,7 @@
 - [WPF PUZZLE GP 2016 ROUND 6](../questions/wpfpgp2016-6.md)
 	- 15-17. Yajilin
 - [WPF PUZZLE GP 2016 PLAYOFFS](../questions/wpfpgp2016-po.md)
-	- 3. Yajilin
+	- 3\. Yajilin
 - [WPF PUZZLE GP 2017 ROUND 6x](../questions/wpfpgp2017-6x.md)
 	- 11-12. Yajilin
 - [WPF PUZZLE GP 2017 ROUND 8](../questions/wpfpgp2017-8.md)
@@ -40,16 +40,16 @@
 - [WPF PUZZLE GP 2019 ROUND 1](../questions/wpfpgp2019-1.md)
 	- 16-17. Yajilin
 - [WPF PUZZLE GP 2019 ROUND 7](../questions/wpfpgp2019-7.md)
-	- 3. Yajilin
+	- 3\. Yajilin
 - [WPF PUZZLE GP 2019 PLAYOFFS](../questions/wpfpgp2019-po.md)
-	- 1. Yajilin
+	- 1\. Yajilin
 - [WPF PUZZLE GP 2020 ROUND 4](../questions/wpfpgp2020-4.md)
-	- 17. Yajilin
+	- 17\. Yajilin
 - [WPF PUZZLE GP 2020 ROUND 5](../questions/wpfpgp2020-5.md)
-	- 16. Yajilin
+	- 16\. Yajilin
 - [WPF PUZZLE GP 2021 ROUND 3](../questions/wpfpgp2021-3.md)
-	- 17. Yajilin
+	- 17\. Yajilin
 - [WPF PUZZLE GP 2021 ROUND 6](../questions/wpfpgp2021-6.md)
-	- 4. Yajilin
+	- 4\. Yajilin
 - [WPF PUZZLE GP 2021 ROUND 8](../questions/wpfpgp2021-8.md)
-	- 5. Yajilin
+	- 5\. Yajilin

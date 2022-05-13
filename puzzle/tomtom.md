@@ -12,10 +12,10 @@
 	- A9. TomTom
 	- B9. TomTom
 - [WPF PUZZLE GP 2017 PLAYOFFS](../questions/wpfpgp2017-po.md)
-	- 4. TomTom
+	- 4\. TomTom
 - [WPF PUZZLE GP 2018 ROUND 3](../questions/wpfpgp2018-3.md)
-	- 11. Numbers: TomTom
+	- 11\. Numbers: TomTom
 - [WPF PUZZLE GP 2020 ROUND 2](../questions/wpfpgp2020-2.md)
 	- 19-20. Tom Tom
 - [WPF PUZZLE GP 2021 ROUND 6](../questions/wpfpgp2021-6.md)
-	- 11. TomTom
+	- 11\. TomTom

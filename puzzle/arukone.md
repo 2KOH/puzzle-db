@@ -6,7 +6,7 @@
 
 ## 問題
 - [WPC選抜大会 2016](../questions/jwpc2016.md)
-	- 3. アルファベットコネクション
+	- 3\. アルファベットコネクション
 - [WPF PUZZLE GP 2017 ROUND 4](../questions/wpfpgp2017-4.md)
 	- C4-6. Arukone
 - [WPF PUZZLE GP 2017 ROUND 5](../questions/wpfpgp2017-5.md)

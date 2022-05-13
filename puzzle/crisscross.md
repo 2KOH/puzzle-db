@@ -17,4 +17,4 @@
 - [WPF PUZZLE GP 2017 ROUND 5](../questions/wpfpgp2017-5.md)
 	- C1. Crisscross
 - [WPF PUZZLE GP 2021 ROUND 7](../questions/wpfpgp2021-7.md)
-	- 2. Criss-Cross
+	- 2\. Criss-Cross

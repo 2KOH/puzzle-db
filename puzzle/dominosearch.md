@@ -10,4 +10,4 @@
 - [WPF PUZZLE GP 2020 ROUND 3](../questions/wpfpgp2020-3.md)
 	- 12-13. Domino Search
 - [WPF PUZZLE GP 2021 ROUND 3](../questions/wpfpgp2021-3.md)
-	- 19. Domino Search
+	- 19\. Domino Search

@@ -4,4 +4,4 @@
 - [WPF PUZZLE GP 2018 ROUND 6](../questions/wpfpgp2018-6.md)
 	- 21-25. Walls
 - [WPF PUZZLE GP 2018 PLAYOFFS](../questions/wpfpgp2018-po.md)
-	- 7. Walls
+	- 7\. Walls

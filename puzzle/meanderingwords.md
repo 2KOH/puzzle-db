@@ -8,4 +8,4 @@
 
 ## 問題
 - [WPF PUZZLE GP 2021 ROUND 6](../questions/wpfpgp2021-6.md)
-	- 12. Meandering Words
+	- 12\. Meandering Words

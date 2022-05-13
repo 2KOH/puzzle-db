@@ -2,7 +2,7 @@
 
 ## 問題
 - [WPF PUZZLE GP 2016 ROUND 3](../questions/wpfpgp2016-3.md)
-	- 11. Find the Differences
+	- 11\. Find the Differences
 - [WPF PUZZLE GP 2016 ROUND 8](../questions/wpfpgp2016-8.md)
 	- 20-22. Find the Differences
 - [WPF PUZZLE GP 2017 ROUND 2](../questions/wpfpgp2017-2.md)

@@ -2,9 +2,9 @@
 
 ## 問題
 - [パズルジャパンオープン 2020](../questions/jwpc2020.md)
-	- 2. 覆面サム
+	- 2\. 覆面サム
 - [パズルジャパンオープン 2021](../questions/jwpc2021.md)
-	- 2. 覆面サム
+	- 2\. 覆面サム
 - [WPF PUZZLE GP 2016 ROUND 6](../questions/wpfpgp2016-6.md)
 	- 1-3. Letter Weights
 - [WPF PUZZLE GP 2016 ROUND 7](../questions/wpfpgp2016-7.md)
@@ -12,10 +12,10 @@
 - [WPF PUZZLE GP 2018 ROUND 7](../questions/wpfpgp2018-7.md)
 	- 4-5. Letter Weights
 - [WPF PUZZLE GP 2018 PLAYOFFS](../questions/wpfpgp2018-po.md)
-	- 4. Letter Weights
+	- 4\. Letter Weights
 - [WPF PUZZLE GP 2019 ROUND 3](../questions/wpfpgp2019-3.md)
-	- 2. Letter Weights
+	- 2\. Letter Weights
 - [WPF PUZZLE GP 2020 ROUND 2](../questions/wpfpgp2020-2.md)
-	- 4. Letter Weights
+	- 4\. Letter Weights
 - [WPF PUZZLE GP 2021 ROUND 1](../questions/wpfpgp2021-1.md)
 	- 6-7. Letter Weights

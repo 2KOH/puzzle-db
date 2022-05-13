@@ -27,12 +27,12 @@
 - [WPF PUZZLE GP 2018 ROUND 3](../questions/wpfpgp2018-3.md)
 	- 17-18. Regions: Fillomino
 - [WPF PUZZLE GP 2018 ROUND 5](../questions/wpfpgp2018-5.md)
-	- 10. Fillomino
+	- 10\. Fillomino
 - [WPF PUZZLE GP 2018 PLAYOFFS](../questions/wpfpgp2018-po.md)
-	- 2. Fillomino
+	- 2\. Fillomino
 - [WPF PUZZLE GP 2019 ROUND 7](../questions/wpfpgp2019-7.md)
-	- 2. Fillomino
+	- 2\. Fillomino
 - [WPF PUZZLE GP 2020 ROUND 5](../questions/wpfpgp2020-5.md)
-	- 2. Fillomino
+	- 2\. Fillomino
 - [WPF PUZZLE GP 2021 ROUND 7](../questions/wpfpgp2021-7.md)
-	- 3. Fillomino
+	- 3\. Fillomino

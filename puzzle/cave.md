@@ -7,7 +7,7 @@
 
 ## 問題
 - [WPC選抜大会 2016](../questions/jwpc2016.md)
-	- 21. 洞--HORA
+	- 21\. 洞--HORA
 - [パズルジャパンオープン 2021](../questions/jwpc2021.md)
 	- 20.1-2. Cave
 - [WPF PUZZLE GP 2016 ROUND 4](../questions/wpfpgp2016-4.md)
@@ -24,8 +24,8 @@
 - [WPF PUZZLE GP 2018 ROUND 8](../questions/wpfpgp2018-8.md)
 	- 13-14. CAVE
 - [WPF PUZZLE GP 2019 ROUND 3](../questions/wpfpgp2019-3.md)
-	- 15. Cave
+	- 15\. Cave
 - [WPF PUZZLE GP 2019 ROUND 6](../questions/wpfpgp2019-6.md)
 	- 4-5. Cave
 - [WPF PUZZLE GP 2021 ROUND 1](../questions/wpfpgp2021-1.md)
-	- 11. Cave
+	- 11\. Cave

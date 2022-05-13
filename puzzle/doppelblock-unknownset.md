@@ -6,4 +6,4 @@
 
 ## 問題
 - [WPF PUZZLE GP 2020 ROUND 8](../questions/wpfpgp2020-8.md)
-	- 14. Doppelblock (unknown set)
+	- 14\. Doppelblock (unknown set)

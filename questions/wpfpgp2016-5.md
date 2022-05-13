@@ -2,11 +2,11 @@
 
 ## 問題
 - 1-5. [Escape the Grand Prix](../puzzle/escapethegrandprix.md)
-- 6. [Escape the Grand Prix: Mastermind](../puzzle/escapethegrandprix-mastermind.md)
-- 7. [Maze](../puzzle/maze.md)
-- 8. [Old Maid](../puzzle/oldmaid.md)
-- 9. [Word Search](../puzzle/wordsearch.md)
-- 10. [Fold-In Criss-Cross](../puzzle/foldin-crisscross.md)
+- 6\. [Escape the Grand Prix: Mastermind](../puzzle/escapethegrandprix-mastermind.md)
+- 7\. [Maze](../puzzle/maze.md)
+- 8\. [Old Maid](../puzzle/oldmaid.md)
+- 9\. [Word Search](../puzzle/wordsearch.md)
+- 10\. [Fold-In Criss-Cross](../puzzle/foldin-crisscross.md)
 - 11-12. [Arithmetic Square](../puzzle/arithmeticsquare.md)
 - 13-14. [Fillomino](../puzzle/fillomino.md)
 - 15-16. [Minesweeper](../puzzle/minesweeper.md)

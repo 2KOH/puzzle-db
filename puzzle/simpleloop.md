@@ -11,6 +11,6 @@
 - [WPF PUZZLE GP 2019 ROUND 1](../questions/wpfpgp2019-1.md)
 	- 1-2. Simple Loop
 - [WPF PUZZLE GP 2021 ROUND 2](../questions/wpfpgp2021-2.md)
-	- 2. Simple Loop
+	- 2\. Simple Loop
 - [WPF PUZZLE GP 2021 ROUND 8](../questions/wpfpgp2021-8.md)
-	- 7. Loop
+	- 7\. Loop

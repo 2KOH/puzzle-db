@@ -9,4 +9,4 @@
 - [WPF PUZZLE GP 2017 ROUND 3](../questions/wpfpgp2017-3.md)
 	- C14-15. Double Minesweeper
 - [WPF PUZZLE GP 2019 ROUND 8](../questions/wpfpgp2019-8.md)
-	- 26. Minesweeper (Double)
+	- 26\. Minesweeper (Double)

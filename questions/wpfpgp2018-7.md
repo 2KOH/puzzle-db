@@ -1,7 +1,7 @@
 # WPF PUZZLE GP 2018 ROUND 7
 
 ## 問題
-- 1. [Balance](../puzzle/balance.md)
+- 1\. [Balance](../puzzle/balance.md)
 - 2-3. [Letter Bags](../puzzle/letterbags.md)
 - 4-5. [Letter Weights](../puzzle/letterweights.md)
 - 6-7. [Masyu](../puzzle/masyu.md)

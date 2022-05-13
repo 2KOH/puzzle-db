@@ -6,4 +6,4 @@
 
 ## 問題
 - [WPF PUZZLE GP 2021 ROUND 6](../questions/wpfpgp2021-6.md)
-	- 14. Yajilin (Castle Wall)
+	- 14\. Yajilin (Castle Wall)

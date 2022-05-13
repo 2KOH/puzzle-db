@@ -5,4 +5,4 @@
 
 ## 問題
 - [WPF PUZZLE GP 2020 ROUND 6](../questions/wpfpgp2020-6.md)
-	- 15. Easy as Japanese Railways
+	- 15\. Easy as Japanese Railways
