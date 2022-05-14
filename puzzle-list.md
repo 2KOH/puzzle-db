@@ -53,7 +53,7 @@
 - [Build a Criss-cross](puzzle/builda-crisscross.md)
 - [Build a Word Search](puzzle/builda-wordsearch.md)
 - [Buttons](puzzle/buttons.md)
-- [なわばりプレース](puzzle/capsules.md)
+- [Capsules](puzzle/capsules.md)
 - [Castle Wall](puzzle/castlewall.md)
 - [バッグ](puzzle/cave.md)
 - [Cave (Big Cells)](puzzle/cave-bigcells.md)

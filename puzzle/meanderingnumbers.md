@@ -1,7 +1,7 @@
 # にょろにょろナンバー
 
 ## 類似
-- [なわばりプレース](capsules.md)
+- [Capsules](capsules.md)
 - [にょろにょろワード](meanderingwords.md)
 
 ## 問題
