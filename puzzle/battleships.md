@@ -11,6 +11,7 @@
 - [ペントミノバトルシップ](pentomino-battleships.md)
 - [Spiral Galaxies + Battleships](spiralgalaxies-battleships.md)
 - [Star Battleships](star-battleships.md)
+- [Sum Battleships](sum-battleships.md)
 - [Yajilin (Battleship)](yajilin-battleships.md)
 
 ## 問題
@@ -24,6 +25,10 @@
 	- 11.1-2. バトルシップ
 - [WPC選抜大会 2022](../questions/jwpc2022.md)
 	- 16.1-2. バトルシップ
+- [WPF PUZZLE GP 2015 ROUND 4](../questions/wpfpgp2015-4.md)
+	- 1-3. Battleships
+- [WPF PUZZLE GP 2015 ROUND 6](../questions/wpfpgp2015-6.md)
+	- 5-8. Battleships
 - [WPF PUZZLE GP 2016 ROUND 1](../questions/wpfpgp2016-1.md)
 	- Casual16-18. Battleships
 - [WPF PUZZLE GP 2017 ROUND 1](../questions/wpfpgp2017-1.md)

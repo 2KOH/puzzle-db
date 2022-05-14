@@ -18,6 +18,12 @@
 	- 12.1-2. Tapa
 - [WPC選抜大会 2022](../questions/jwpc2022.md)
 	- 4.1-2. Tapa
+- [WPF PUZZLE GP 2015 ROUND 3](../questions/wpfpgp2015-3.md)
+	- 1-6. Tapa
+- [WPF PUZZLE GP 2015 ROUND 7](../questions/wpfpgp2015-7.md)
+	- 5-9. Tapa
+- [WPF PUZZLE GP 2015 ROUND PLAYOFFS](../questions/wpfpgp2015-po.md)
+	- 14\. Tapa
 - [WPF PUZZLE GP 2017 ROUND 2](../questions/wpfpgp2017-2.md)
 	- A1. Tapa
 	- B1-2. Tapa

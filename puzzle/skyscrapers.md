@@ -3,6 +3,7 @@
 ## バリエーション
 - [Doppelblock Skyscrapers](doppelblock-skyscrapers.md)
 - [Connected-Shapesweeper-Skyscrapers](shapesweeper-skyscrapers-connected.md)
+- [Sky-neighbors](sky-neighbors.md)
 - [SkyTomTom](sky-tomtom.md)
 - [Skyscraper Blocks](skyscraper-blocks.md)
 - [Skyscraper Nurikabe](skyscraper-nurikabe.md)
@@ -32,6 +33,12 @@
 	- 8.1-2. ビルディング
 - [WPC選抜大会 2022](../questions/jwpc2022.md)
 	- 10.1-2. ビルディング
+- [WPF PUZZLE GP 2015 ROUND 3](../questions/wpfpgp2015-3.md)
+	- 7-12. Skyscrapers
+- [WPF PUZZLE GP 2015 ROUND 6](../questions/wpfpgp2015-6.md)
+	- 9-12. Skyscrapers
+- [WPF PUZZLE GP 2015 ROUND 8](../questions/wpfpgp2015-8.md)
+	- 5-6. Skyscrapers
 - [WPF PUZZLE GP 2016 ROUND 1](../questions/wpfpgp2016-1.md)
 	- Competitive11-13. Skyscrapers
 - [WPF PUZZLE GP 2016 ROUND 5](../questions/wpfpgp2016-5.md)

@@ -3,6 +3,7 @@
 ## バリエーション
 - [覆面ウォールロジック](fourwinds-encoded.md)
 - [シームレスウォールロジック](fourwinds-toroidal.md)
+- [Four Winds with Parks](fourwinds-withparks.md)
 - [Six Winds](sixwinds.md)
 
 ## 問題

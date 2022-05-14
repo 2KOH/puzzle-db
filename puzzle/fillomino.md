@@ -18,6 +18,10 @@
 ## 問題
 - [WPC選抜大会 2022](../questions/jwpc2022.md)
 	- 12.1-2. 見知らぬ隣人
+- [WPF PUZZLE GP 2015 ROUND 1](../questions/wpfpgp2015-1.md)
+	- 16-18. Fillomino
+- [WPF PUZZLE GP 2015 ROUND 7](../questions/wpfpgp2015-7.md)
+	- 1-4. Fillomino
 - [WPF PUZZLE GP 2016 ROUND 5](../questions/wpfpgp2016-5.md)
 	- 13-14. Fillomino
 - [WPF PUZZLE GP 2017 ROUND 4](../questions/wpfpgp2017-4.md)

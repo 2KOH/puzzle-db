@@ -3,6 +3,7 @@
 ## バリエーション
 - [Japanese Sums (Hex)](japanesesums-hex.md)
 - [Japanese Sums (Hitori)](japanesesums-hitori.md)
+- [Japanese Sums With Zeroes](japanesesums-withzero.md)
 
 ## 問題
 - [WPF PUZZLE GP 2020 ROUND 1](../questions/wpfpgp2020-1.md)

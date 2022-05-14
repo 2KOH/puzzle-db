@@ -9,6 +9,10 @@
 ## 問題
 - [WPC選抜大会 2022](../questions/jwpc2022.md)
 	- 22.1-2. 点対称分割
+- [WPF PUZZLE GP 2015 ROUND 6](../questions/wpfpgp2015-6.md)
+	- 1-4. Spiral Galaxies
+- [WPF PUZZLE GP 2015 ROUND 7](../questions/wpfpgp2015-7.md)
+	- 10-12. Spiral Galaxies
 - [WPF PUZZLE GP 2016 ROUND 1](../questions/wpfpgp2016-1.md)
 	- Competitive5-7. Spiral Galaxies
 - [WPF PUZZLE GP 2016 ROUND 2](../questions/wpfpgp2016-2.md)

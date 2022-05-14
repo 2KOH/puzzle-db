@@ -5,6 +5,8 @@
 - [Kuromasu (Star Battle)](kuromasu-starbattle.md)
 - [Star Battleships](star-battleships.md)
 - [Half-Region Star Battle](starbattle-halfregion.md)
+- [Starry Road](starryroad.md)
+- [Star Wars](starwars.md)
 
 ## 問題
 - [WPC選抜大会 2017](../questions/jwpc2017.md)
@@ -13,6 +15,8 @@
 	- 10.1-2. スターバトル
 - [WPC選抜大会 2022](../questions/jwpc2022.md)
 	- 13.1-2. スターバトル
+- [WPF PUZZLE GP 2015 ROUND 4](../questions/wpfpgp2015-4.md)
+	- 7-9. Star Battle
 - [WPF PUZZLE GP 2016 ROUND 3](../questions/wpfpgp2016-3.md)
 	- 14-17. Star Battle
 - [WPF PUZZLE GP 2016 ROUND 4](../questions/wpfpgp2016-4.md)

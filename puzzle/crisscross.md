@@ -12,6 +12,8 @@
 	- 10.1. スケルトン
 - [WPC選抜大会 2019](../questions/jwpc2019.md)
 	- 8.1-2. スケルトン
+- [WPF PUZZLE GP 2015 ROUND 8](../questions/wpfpgp2015-8.md)
+	- 3-4. Crisscross
 - [WPF PUZZLE GP 2017 ROUND 3](../questions/wpfpgp2017-3.md)
 	- C6-7. Crisscross
 - [WPF PUZZLE GP 2017 ROUND 5](../questions/wpfpgp2017-5.md)

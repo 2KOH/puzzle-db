@@ -25,6 +25,10 @@
 	- 23\. ループメーカー
 - [WPC選抜大会 2022](../questions/jwpc2022.md)
 	- 21.1-2. ループメーカー
+- [WPF PUZZLE GP 2015 ROUND 2](../questions/wpfpgp2015-2.md)
+	- 9-12. Slitherlink
+- [WPF PUZZLE GP 2015 ROUND PLAYOFFS](../questions/wpfpgp2015-po.md)
+	- 4\. Slitherlink
 - [WPF PUZZLE GP 2016 ROUND 1](../questions/wpfpgp2016-1.md)
 	- Competitive14-16. Slitherlink
 - [WPF PUZZLE GP 2016 ROUND 5](../questions/wpfpgp2016-5.md)
