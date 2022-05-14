@@ -25,6 +25,10 @@
 	- 11.1-2. バトルシップ
 - [WPC選抜大会 2022](../questions/jwpc2022.md)
 	- 16.1-2. バトルシップ
+- [WPF PUZZLE GP 2014 ROUND 2](../questions/wpfpgp2014-2.md)
+	- 3\. Battleships
+- [WPF PUZZLE GP 2014 ROUND 3](../questions/wpfpgp2014-3.md)
+	- 11\. Battleships
 - [WPF PUZZLE GP 2015 ROUND 4](../questions/wpfpgp2015-4.md)
 	- 1-3. Battleships
 - [WPF PUZZLE GP 2015 ROUND 6](../questions/wpfpgp2015-6.md)

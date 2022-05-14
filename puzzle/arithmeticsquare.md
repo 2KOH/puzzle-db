@@ -22,6 +22,8 @@
 	- 1\. 吉例クロスマッス
 - [WPC選抜大会 2022](../questions/jwpc2022.md)
 	- 1\. 吉例クロスマッス
+- [WPF PUZZLE GP 2014 ROUND 3](../questions/wpfpgp2014-3.md)
+	- 6\. Cross Math
 - [WPF PUZZLE GP 2016 ROUND 5](../questions/wpfpgp2016-5.md)
 	- 11-12. Arithmetic Square
 - [WPF PUZZLE GP 2016 ROUND 6](../questions/wpfpgp2016-6.md)

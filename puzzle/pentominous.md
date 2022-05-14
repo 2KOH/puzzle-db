@@ -12,6 +12,8 @@
 	- 20.1-2. ノータッチ・ペントミノ分割
 - [WPC選抜大会 2022](../questions/jwpc2022.md)
 	- 5.1-2. ノータッチ・ペントミノ分割
+- [WPF PUZZLE GP 2014 ROUND 6](../questions/wpfpgp2014-6.md)
+	- 5\. Pentominous
 - [WPF PUZZLE GP 2015 ROUND 3](../questions/wpfpgp2015-3.md)
 	- 25-30. Pentominous
 - [WPF PUZZLE GP 2016 ROUND 6](../questions/wpfpgp2016-6.md)

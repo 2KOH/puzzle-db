@@ -6,6 +6,7 @@
 - [覆面スリザーリンク](slitherlink-encoded.md)
 - [Slitherlink (Full Evens)](slitherlink-fullevens.md)
 - [六角ループメーカー](slitherlink-hex.md)
+- [Liar Diagonal Slitherlink](slitherlink-liardiagonal.md)
 - [ウソつきループメーカー](slitherlink-liars.md)
 - [Slitherlink (No Swiss)](slitherlink-noswiss.md)
 - [Slitherlink (Out-Liars)](slitherlink-outliars.md)
@@ -25,6 +26,14 @@
 	- 23\. ループメーカー
 - [WPC選抜大会 2022](../questions/jwpc2022.md)
 	- 21.1-2. ループメーカー
+- [WPF PUZZLE GP 2014 ROUND 1](../questions/wpfpgp2014-1.md)
+	- 10\. Slitherlink
+- [WPF PUZZLE GP 2014 ROUND 2](../questions/wpfpgp2014-2.md)
+	- 5\. Slitherlink
+- [WPF PUZZLE GP 2014 ROUND 3](../questions/wpfpgp2014-3.md)
+	- 17\. Fences (Slitherlink)
+- [WPF PUZZLE GP 2014 ROUND 4](../questions/wpfpgp2014-4.md)
+	- 2\. Slitherlink
 - [WPF PUZZLE GP 2015 ROUND 2](../questions/wpfpgp2015-2.md)
 	- 9-12. Slitherlink
 - [WPF PUZZLE GP 2015 ROUND PLAYOFFS](../questions/wpfpgp2015-po.md)

@@ -10,6 +10,8 @@
 	- 10\. テトロミノリンク
 - [パズルジャパンオープン 2020](../questions/jwpc2020.md)
 	- 6.1-2. テトロミノリンク
+- [WPF PUZZLE GP 2014 ROUND 1](../questions/wpfpgp2014-1.md)
+	- 2\. LITS
 - [WPF PUZZLE GP 2015 ROUND 2](../questions/wpfpgp2015-2.md)
 	- 17-20. LITS
 - [WPF PUZZLE GP 2015 ROUND 5](../questions/wpfpgp2015-5.md)

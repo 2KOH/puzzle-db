@@ -26,6 +26,10 @@
 	- 9.1-2. ループであろー
 - [パズルジャパンオープン 2021](../questions/jwpc2021.md)
 	- 10.1-2. ループであろー
+- [WPF PUZZLE GP 2014 ROUND 4](../questions/wpfpgp2014-4.md)
+	- 1\. Yajilin
+- [WPF PUZZLE GP 2014 ROUND 5](../questions/wpfpgp2014-5.md)
+	- 9\. Yajilin
 - [WPF PUZZLE GP 2016 ROUND 3](../questions/wpfpgp2016-3.md)
 	- 18-21. Yajilin
 - [WPF PUZZLE GP 2016 ROUND 6](../questions/wpfpgp2016-6.md)

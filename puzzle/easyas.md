@@ -1,6 +1,7 @@
 # ABCプレース
 
 ## バリエーション
+- [Easy as First or Second ABCD](easyas-firstorsecond.md)
 - [Easy As (Fuzuli)](easyas-fuzuli.md)
 - [Easy As (Hex)](easyas-hex.md)
 - [Easy As (Iso)](easyas-iso.md)
@@ -11,7 +12,7 @@
 - [Easy As (no 2×2)](easyas-no2x2.md)
 - [ななめにくっつかないABCプレース](easyas-notouch.md)
 - [Easy As (Second)](easyas-second.md)
-- [注文の多いABCプレース](esayas-v1.md)
+- [注文の多いABCプレース](esayas-whatnumber.md)
 - [Easy as (Hex)](wasyas-hex.md)
 
 ## 問題
@@ -23,6 +24,14 @@
 	- 12.1-2. ABCプレース
 - [WPC選抜大会 2022](../questions/jwpc2022.md)
 	- 14.1-2. ABCプレース
+- [WPF PUZZLE GP 2014 ROUND 3](../questions/wpfpgp2014-3.md)
+	- 13\. Easy as ABC
+- [WPF PUZZLE GP 2014 ROUND 4](../questions/wpfpgp2014-4.md)
+	- 6\. Easy as ABC
+- [WPF PUZZLE GP 2014 ROUND 6](../questions/wpfpgp2014-6.md)
+	- 11\. Easy As ABC
+- [WPF PUZZLE GP 2014 PLAYOFFS](../questions/wpfpgp2014-po.md)
+	- 3. Easy as ABCD
 - [WPF PUZZLE GP 2016 ROUND 7](../questions/wpfpgp2016-7.md)
 	- 19-21. Easy as...
 - [WPF PUZZLE GP 2016 ROUND 8](../questions/wpfpgp2016-8.md)

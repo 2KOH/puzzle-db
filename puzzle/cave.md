@@ -10,6 +10,12 @@
 	- 21\. 洞--HORA
 - [パズルジャパンオープン 2021](../questions/jwpc2021.md)
 	- 20.1-2. Cave
+- [WPF PUZZLE GP 2014 ROUND 2](../questions/wpfpgp2014-2.md)
+	- 8\. Cave
+- [WPF PUZZLE GP 2014 ROUND 3](../questions/wpfpgp2014-3.md)
+	- 15\. Cave
+- [WPF PUZZLE GP 2014 ROUND 6](../questions/wpfpgp2014-6.md)
+	- 4\. Cave
 - [WPF PUZZLE GP 2015 ROUND 5](../questions/wpfpgp2015-5.md)
 	- 16-18. Cave
 - [WPF PUZZLE GP 2015 ROUND PLAYOFFS](../questions/wpfpgp2015-po.md)

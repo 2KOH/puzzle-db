@@ -5,6 +5,7 @@
 - [Japanese Snake (Ends)](japanese-snake.md)
 - [Nurikabe (Snake)](nurikabe-snake.md)
 - [Dotted Snake](snake-dotted.md)
+- [Snake (Length, Ends)](snake-length.md)
 - [嘘つきスネーク](snake-offbyone.md)
 - [Snake (Ends,Striped)](snake-striped.md)
 - [Snake (Striped, Length, Ends)](snake-stripedlengthends.md)
@@ -18,6 +19,10 @@
 	- 16.1. スネーク
 - [WPC選抜大会 2022](../questions/jwpc2022.md)
 	- 9.1-2. スネーク
+- [WPF PUZZLE GP 2014 ROUND 3](../questions/wpfpgp2014-3.md)
+	- 16\. Snake
+- [WPF PUZZLE GP 2014 PLAYOFFS](../questions/wpfpgp2014-po.md)
+	- 6. Snake
 - [WPF PUZZLE GP 2015 ROUND 6](../questions/wpfpgp2015-6.md)
 	- 13-16. Snake
 - [WPF PUZZLE GP 2016 ROUND 2](../questions/wpfpgp2016-2.md)

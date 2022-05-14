@@ -20,6 +20,12 @@
 	- 17.1-2. 間■仕■切■り
 - [WPC選抜大会 2022](../questions/jwpc2022.md)
 	- 18.1-2. 間■仕■切■り
+- [WPF PUZZLE GP 2014 ROUND 1](../questions/wpfpgp2014-1.md)
+	- 1\. Nurikabe
+- [WPF PUZZLE GP 2014 ROUND 3](../questions/wpfpgp2014-3.md)
+	- 9\. Islands (Nurikabe)
+- [WPF PUZZLE GP 2014 ROUND 4](../questions/wpfpgp2014-4.md)
+	- 11\. Nurikabe
 - [WPF PUZZLE GP 2015 ROUND 1](../questions/wpfpgp2015-1.md)
 	- 4-6. Nurikabe
 - [WPF PUZZLE GP 2016 ROUND 1](../questions/wpfpgp2016-1.md)

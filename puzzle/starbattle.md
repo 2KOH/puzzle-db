@@ -15,6 +15,12 @@
 	- 10.1-2. スターバトル
 - [WPC選抜大会 2022](../questions/jwpc2022.md)
 	- 13.1-2. スターバトル
+- [WPF PUZZLE GP 2014 ROUND 1](../questions/wpfpgp2014-1.md)
+	- 4\. Star Battle
+- [WPF PUZZLE GP 2014 ROUND 3](../questions/wpfpgp2014-3.md)
+	- 1\. Star Battle
+- [WPF PUZZLE GP 2014 ROUND 5](../questions/wpfpgp2014-5.md)
+	- 10\. Star Battle
 - [WPF PUZZLE GP 2015 ROUND 4](../questions/wpfpgp2015-4.md)
 	- 7-9. Star Battle
 - [WPF PUZZLE GP 2016 ROUND 3](../questions/wpfpgp2016-3.md)

@@ -3,6 +3,10 @@
 ## 問題
 - [パズルジャパンオープン 2021](../questions/jwpc2021.md)
 	- 22.1-2. ドミノ分割
+- [WPF PUZZLE GP 2014 ROUND 4](../questions/wpfpgp2014-4.md)
+	- 9\. Domino Search
+- [WPF PUZZLE GP 2014 ROUND 5](../questions/wpfpgp2014-5.md)
+	- 3\. Domino Search
 - [WPF PUZZLE GP 2015 ROUND 2](../questions/wpfpgp2015-2.md)
 	- 1-4. Domino Search
 - [WPF PUZZLE GP 2016 ROUND 7](../questions/wpfpgp2016-7.md)

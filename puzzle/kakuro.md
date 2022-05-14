@@ -18,6 +18,12 @@
 	- 12.1. サムクロス
 - [WPC選抜大会 2022](../questions/jwpc2022.md)
 	- 23.1-2. サムクロス
+- [WPF PUZZLE GP 2014 ROUND 2](../questions/wpfpgp2014-2.md)
+	- 11\. Kakuro
+- [WPF PUZZLE GP 2014 ROUND 3](../questions/wpfpgp2014-3.md)
+	- 14\. Cross Sums (Kakuro)
+- [WPF PUZZLE GP 2014 PLAYOFFS](../questions/wpfpgp2014-po.md)
+	- 9. Kakuro
 - [WPF PUZZLE GP 2015 ROUND 5](../questions/wpfpgp2015-5.md)
 	- 1-3. Kakuro
 - [WPF PUZZLE GP 2017 ROUND 6x](../questions/wpfpgp2017-6x.md)

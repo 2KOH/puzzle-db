@@ -10,6 +10,12 @@
 ## 問題
 - [WPC選抜大会 2022](../questions/jwpc2022.md)
 	- 17.1-2. パールネックレス
+- [WPF PUZZLE GP 2014 ROUND 2](../questions/wpfpgp2014-2.md)
+	- 6\. Masyu
+- [WPF PUZZLE GP 2014 ROUND 5](../questions/wpfpgp2014-5.md)
+	- 6\. Masyu
+- [WPF PUZZLE GP 2014 PLAYOFFS](../questions/wpfpgp2014-po.md)
+	- 5. Masyu
 - [WPF PUZZLE GP 2016 ROUND 2](../questions/wpfpgp2016-2.md)
 	- 21-24. Masyu
 - [WPF PUZZLE GP 2016 ROUND 4](../questions/wpfpgp2016-4.md)

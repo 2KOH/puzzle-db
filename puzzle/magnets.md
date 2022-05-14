@@ -12,6 +12,8 @@
 	- 5.1-2. マグネット
 - [WPC選抜大会 2022](../questions/jwpc2022.md)
 	- 19.1-2. マグネット
+- [WPF PUZZLE GP 2014 ROUND 1](../questions/wpfpgp2014-1.md)
+	- 7\. Magnets
 - [WPF PUZZLE GP 2015 ROUND 7](../questions/wpfpgp2015-7.md)
 	- 17-19. Magnets
 - [WPF PUZZLE GP 2016 ROUND 3](../questions/wpfpgp2016-3.md)

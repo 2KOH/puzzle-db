@@ -1,6 +1,7 @@
 # コーラル
 
 ## バリエーション
+- [Coded Coral](coral-encoded.md)
 - [Coral (Overlapping)](coral-overlapping.md)
 - [Greater Wall](greaterwall.md)
 

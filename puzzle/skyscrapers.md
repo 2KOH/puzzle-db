@@ -8,6 +8,7 @@
 - [Skyscraper Blocks](skyscraper-blocks.md)
 - [Skyscraper Nurikabe](skyscraper-nurikabe.md)
 - [Skyscraper Sums](skyscraper-sums.md)
+- [Afternoon Skyscrapers](skyscrapers-afternoon.md)
 - [Skyscrapers (Big Cells)](skyscrapers-bigcells.md)
 - [ビルディングの輪](skyscrapers-connected.md)
 - [Skyscrapers (diagonal)](skyscrapers-diagonal.md)
@@ -21,6 +22,7 @@
 - [Skyscrapers (Park)](skyscrapers-park.md)
 - [Skyscrapers (Relations)](skyscrapers-relations.md)
 - [Shapeskyscrapers](skyscrapers-shapes.md)
+- [Thermo-Skyscrapers](skyscrapers-thermo.md)
 - [ガラスの街のビルディング](skyscrapers-uncounted.md)
 - [中庭ビルディング](skyscrapers-x.md)
 
@@ -33,6 +35,10 @@
 	- 8.1-2. ビルディング
 - [WPC選抜大会 2022](../questions/jwpc2022.md)
 	- 10.1-2. ビルディング
+- [WPF PUZZLE GP 2014 ROUND 1](../questions/wpfpgp2014-1.md)
+	- 3\. Skyscrapers
+- [WPF PUZZLE GP 2014 ROUND 3](../questions/wpfpgp2014-3.md)
+	- 10\. Skyscrapers
 - [WPF PUZZLE GP 2015 ROUND 3](../questions/wpfpgp2015-3.md)
 	- 7-12. Skyscrapers
 - [WPF PUZZLE GP 2015 ROUND 6](../questions/wpfpgp2015-6.md)

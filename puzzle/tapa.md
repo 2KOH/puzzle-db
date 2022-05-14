@@ -4,6 +4,7 @@
 - [Full Tapa](full-tapa.md)
 - [LITS (Tapa)](lits-tapa.md)
 - [Loop (Tapa)](loop-tapa.md)
+- [Tapa Logic](tapa-encoded.md)
 - [Tapa (Transparent)](tapa-transparent.md)
 - [Tapa (Unknowns, Coupled)](tapa-unknownscoupled.md)
 - [Tapa (Wall)](tapa-wall.md)
@@ -18,6 +19,14 @@
 	- 12.1-2. Tapa
 - [WPC選抜大会 2022](../questions/jwpc2022.md)
 	- 4.1-2. Tapa
+- [WPF PUZZLE GP 2014 ROUND 2](../questions/wpfpgp2014-2.md)
+	- 13\. Tapa
+- [WPF PUZZLE GP 2014 ROUND 5](../questions/wpfpgp2014-5.md)
+	- 4\. Tapa
+- [WPF PUZZLE GP 2014 ROUND 6](../questions/wpfpgp2014-6.md)
+	- 14\. Tapa
+- [WPF PUZZLE GP 2014 PLAYOFFS](../questions/wpfpgp2014-po.md)
+	- 8. Tapa
 - [WPF PUZZLE GP 2015 ROUND 3](../questions/wpfpgp2015-3.md)
 	- 1-6. Tapa
 - [WPF PUZZLE GP 2015 ROUND 7](../questions/wpfpgp2015-7.md)

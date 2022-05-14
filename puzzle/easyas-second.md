@@ -1,5 +1,8 @@
 # Easy As (Second)
 
+## 類似
+- [easyas-whatnumber](easyas-whatnumber.md)
+
 ## オリジナル
 - [ABCプレース](easyas.md)
 
