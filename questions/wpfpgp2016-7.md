@@ -16,6 +16,6 @@
 - 34-36. [Greater Wall](../puzzle/greaterwall.md)
 
 ## リンク
-- [WPF Puzzle GP7 | gp.worldpuzzle.org](https://gp.worldpuzzle.org/content/wpf-puzzle-gp7-0)
-- [Instruction Booklet | gp.worldpuzzle.org](https://gp.worldpuzzle.org/content/instruction-booklet-46)
-- [Competition Puzzles | gp.worldpuzzle.org](https://gp.worldpuzzle.org/content/competition-puzzles-11)
+- [WPF Puzzle GP7](https://gp.worldpuzzle.org/content/wpf-puzzle-gp7-0)
+- [Instruction Booklet](https://gp.worldpuzzle.org/content/instruction-booklet-46)
+- [Competition Puzzles](https://gp.worldpuzzle.org/content/competition-puzzles-11)

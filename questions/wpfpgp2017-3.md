@@ -24,6 +24,6 @@
 - C14-15. [Double Minesweeper](../puzzle/minesweeper-double.md)
 
 ## リンク
-- [WPF Puzzle GP3 | gp.worldpuzzle.org](https://gp.worldpuzzle.org/content/wpf-puzzle-gp3-2)
-- [Instruction Booklet | gp.worldpuzzle.org](https://gp.worldpuzzle.org/content/instruction-booklet-55)
-- [Competition Puzzles | gp.worldpuzzle.org](https://gp.worldpuzzle.org/content/competition-puzzles-20)
+- [WPF Puzzle GP3](https://gp.worldpuzzle.org/content/wpf-puzzle-gp3-2)
+- [Instruction Booklet](https://gp.worldpuzzle.org/content/instruction-booklet-55)
+- [Competition Puzzles](https://gp.worldpuzzle.org/content/competition-puzzles-20)
