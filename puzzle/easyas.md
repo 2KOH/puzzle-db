@@ -12,7 +12,7 @@
 - [Easy As (no 2×2)](easyas_no2x2.md)
 - [ななめにくっつかないABCプレース](easyas_notouch.md)
 - [Easy As (Second)](easyas_second.md)
-- [注文の多いABCプレース](esayas_whatnumber.md)
+- [注文の多いABCプレース](easyas_whatnumber.md)
 - [Easy as (Hex)](wasyas_hex.md)
 
 ## 問題

@@ -1,7 +1,8 @@
 # Easy As (Second)
 
 ## 類似
-- [easyas-whatnumber](easyas_whatnumber.md)
+- [Easy as First or Second ABCD](easyas_firstorsecond.md)
+- [注文の多いABCプレース](easyas_whatnumber.md)
 
 ## オリジナル
 - [ABCプレース](easyas.md)
