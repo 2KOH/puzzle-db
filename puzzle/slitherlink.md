@@ -1,19 +1,19 @@
 # スリザーリンク
 
 ## バリエーション
-- [Slitherlink (Big Cells)](slitherlink-bigcells.md)
-- [似て非なるループメーカー](slitherlink-dual.md)
-- [覆面スリザーリンク](slitherlink-encoded.md)
-- [Slitherlink (Full Evens)](slitherlink-fullevens.md)
-- [六角ループメーカー](slitherlink-hex.md)
-- [Liar Diagonal Slitherlink](slitherlink-liardiagonal.md)
-- [ウソつきループメーカー](slitherlink-liars.md)
-- [Slitherlink (No Swiss)](slitherlink-noswiss.md)
-- [Slitherlink (Out-Liars)](slitherlink-outliars.md)
-- [Slitherlink (Pentominoes)](slitherlink-pentominoes.md)
-- [Slitherlink (Unequal Lengths)](slitherlink-unequallengths.md)
-- [Slitherlink (Wolves and Sheep)](slitherlink-wolvesandsheep.md)
-- [Yin-Yang Slitherlink](yinyang-slitherlink.md)
+- [Slitherlink (Big Cells)](slitherlink_bigcells.md)
+- [似て非なるループメーカー](slitherlink_dual.md)
+- [覆面スリザーリンク](slitherlink_encoded.md)
+- [Slitherlink (Full Evens)](slitherlink_fullevens.md)
+- [六角ループメーカー](slitherlink_hex.md)
+- [Liar Diagonal Slitherlink](slitherlink_liardiagonal.md)
+- [ウソつきループメーカー](slitherlink_liars.md)
+- [Slitherlink (No Swiss)](slitherlink_noswiss.md)
+- [Slitherlink (Out-Liars)](slitherlink_outliars.md)
+- [Slitherlink (Pentominoes)](slitherlink_pentominoes.md)
+- [Slitherlink (Unequal Lengths)](slitherlink_unequallengths.md)
+- [Slitherlink (Wolves and Sheep)](slitherlink_wolvesandsheep.md)
+- [Yin-Yang Slitherlink](yinyang_slitherlink.md)
 
 ## 問題
 - [WPC選抜大会 2017](../questions/jwpc2017.md)
@@ -26,49 +26,49 @@
 	- 23\. ループメーカー
 - [WPC選抜大会 2022](../questions/jwpc2022.md)
 	- 21.1-2. ループメーカー
-- [WPF PUZZLE GP 2014 ROUND 1](../questions/wpfpgp2014-1.md)
+- [WPF PUZZLE GP 2014 ROUND 1](../questions/wpfpgp2014_1.md)
 	- 10\. Slitherlink
-- [WPF PUZZLE GP 2014 ROUND 2](../questions/wpfpgp2014-2.md)
+- [WPF PUZZLE GP 2014 ROUND 2](../questions/wpfpgp2014_2.md)
 	- 5\. Slitherlink
-- [WPF PUZZLE GP 2014 ROUND 3](../questions/wpfpgp2014-3.md)
+- [WPF PUZZLE GP 2014 ROUND 3](../questions/wpfpgp2014_3.md)
 	- 17\. Fences (Slitherlink)
-- [WPF PUZZLE GP 2014 ROUND 4](../questions/wpfpgp2014-4.md)
+- [WPF PUZZLE GP 2014 ROUND 4](../questions/wpfpgp2014_4.md)
 	- 2\. Slitherlink
-- [WPF PUZZLE GP 2015 ROUND 2](../questions/wpfpgp2015-2.md)
+- [WPF PUZZLE GP 2015 ROUND 2](../questions/wpfpgp2015_2.md)
 	- 9-12. Slitherlink
-- [WPF PUZZLE GP 2015 ROUND PLAYOFFS](../questions/wpfpgp2015-po.md)
+- [WPF PUZZLE GP 2015 ROUND PLAYOFFS](../questions/wpfpgp2015_po.md)
 	- 4\. Slitherlink
-- [WPF PUZZLE GP 2016 ROUND 1](../questions/wpfpgp2016-1.md)
+- [WPF PUZZLE GP 2016 ROUND 1](../questions/wpfpgp2016_1.md)
 	- Competitive14-16. Slitherlink
-- [WPF PUZZLE GP 2016 ROUND 5](../questions/wpfpgp2016-5.md)
+- [WPF PUZZLE GP 2016 ROUND 5](../questions/wpfpgp2016_5.md)
 	- 19-21. Slitherlink
-- [WPF PUZZLE GP 2016 PLAYOFFS](../questions/wpfpgp2016-po.md)
+- [WPF PUZZLE GP 2016 PLAYOFFS](../questions/wpfpgp2016_po.md)
 	- 1\. Slitherlink
-- [WPF PUZZLE GP 2017 ROUND 1](../questions/wpfpgp2017-1.md)
+- [WPF PUZZLE GP 2017 ROUND 1](../questions/wpfpgp2017_1.md)
 	- A1-3. Slitherlink
-- [WPF PUZZLE GP 2017 ROUND 3](../questions/wpfpgp2017-3.md)
+- [WPF PUZZLE GP 2017 ROUND 3](../questions/wpfpgp2017_3.md)
 	- B7-8. Slitherlink
-- [WPF PUZZLE GP 2017 ROUND 4](../questions/wpfpgp2017-4.md)
+- [WPF PUZZLE GP 2017 ROUND 4](../questions/wpfpgp2017_4.md)
 	- A4. Slitherlink
 	- B4. Slitherlink
-- [WPF PUZZLE GP 2017 ROUND 6x](../questions/wpfpgp2017-6x.md)
+- [WPF PUZZLE GP 2017 ROUND 6x](../questions/wpfpgp2017_6x.md)
 	- 8-10. Slitherlink
-- [WPF PUZZLE GP 2017 PLAYOFFS](../questions/wpfpgp2017-po.md)
+- [WPF PUZZLE GP 2017 PLAYOFFS](../questions/wpfpgp2017_po.md)
 	- 5\. Slitherlink
 	- 6\. Slitherlink
-- [WPF PUZZLE GP 2018 ROUND 1](../questions/wpfpgp2018-1.md)
+- [WPF PUZZLE GP 2018 ROUND 1](../questions/wpfpgp2018_1.md)
 	- 5-6. Slitherlink
-- [WPF PUZZLE GP 2018 ROUND 4](../questions/wpfpgp2018-4.md)
+- [WPF PUZZLE GP 2018 ROUND 4](../questions/wpfpgp2018_4.md)
 	- 12\. Slitherlink
-- [WPF PUZZLE GP 2018 ROUND 5](../questions/wpfpgp2018-5.md)
+- [WPF PUZZLE GP 2018 ROUND 5](../questions/wpfpgp2018_5.md)
 	- 5\. Slitherlink
-- [WPF PUZZLE GP 2019 ROUND 8](../questions/wpfpgp2019-8.md)
+- [WPF PUZZLE GP 2019 ROUND 8](../questions/wpfpgp2019_8.md)
 	- 11-12. Slitherlink
-- [WPF PUZZLE GP 2019 PLAYOFFS](../questions/wpfpgp2019-po.md)
+- [WPF PUZZLE GP 2019 PLAYOFFS](../questions/wpfpgp2019_po.md)
 	- 8\. Slitherlink
-- [WPF PUZZLE GP 2021 ROUND 3](../questions/wpfpgp2021-3.md)
+- [WPF PUZZLE GP 2021 ROUND 3](../questions/wpfpgp2021_3.md)
 	- 6\. Slitherlink
-- [WPF PUZZLE GP 2021 ROUND 5](../questions/wpfpgp2021-5.md)
+- [WPF PUZZLE GP 2021 ROUND 5](../questions/wpfpgp2021_5.md)
 	- 16\. Slitherlink
-- [WPF PUZZLE GP 2021 ROUND 8](../questions/wpfpgp2021-8.md)
+- [WPF PUZZLE GP 2021 ROUND 8](../questions/wpfpgp2021_8.md)
 	- 16\. Slitherlink

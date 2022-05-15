@@ -5,5 +5,5 @@
 	- 4\. ナンプレ
 - [パズルジャパンオープン 2021](../questions/jwpc2021.md)
 	- 4\. ナンプレ
-- [WPF PUZZLE GP 2020 ROUND 7](../questions/wpfpgp2020-7.md)
+- [WPF PUZZLE GP 2020 ROUND 7](../questions/wpfpgp2020_7.md)
 	- 11-12. Sudoku

@@ -1,14 +1,14 @@
 # ぬりかべ
 
 ## バリエーション
-- [Mastermind-Nurikabe-Yajilin](mastermind-nurikabe-yajilin.md)
-- [Nurikabe Battleships](nurikabe-battleships.md)
-- [四角禁止の間■仕■切■り](nurikabe-norect.md)
-- [Nurikabe (pair sums)](nurikabe-pairsums.md)
-- [Nurikabe (Snake)](nurikabe-snake.md)
-- [Symmetric Encrypted Nurikabe](nurikabe-symmetric-encoded.md)
-- [Nurikabe (symmetry)](nurikabe-symmetry.md)
-- [Skyscraper Nurikabe](skyscraper-nurikabe.md)
+- [Mastermind-Nurikabe-Yajilin](mastermind_nurikabe_yajilin.md)
+- [Nurikabe Battleships](nurikabe_battleships.md)
+- [四角禁止の間■仕■切■り](nurikabe_norect.md)
+- [Nurikabe (pair sums)](nurikabe_pairsums.md)
+- [Nurikabe (Snake)](nurikabe_snake.md)
+- [Symmetric Encrypted Nurikabe](nurikabe_symmetric_encoded.md)
+- [Nurikabe (symmetry)](nurikabe_symmetry.md)
+- [Skyscraper Nurikabe](skyscraper_nurikabe.md)
 - [Yajinurikabelin](yajinurikabelin.md)
 
 ## 問題
@@ -20,43 +20,43 @@
 	- 17.1-2. 間■仕■切■り
 - [WPC選抜大会 2022](../questions/jwpc2022.md)
 	- 18.1-2. 間■仕■切■り
-- [WPF PUZZLE GP 2014 ROUND 1](../questions/wpfpgp2014-1.md)
+- [WPF PUZZLE GP 2014 ROUND 1](../questions/wpfpgp2014_1.md)
 	- 1\. Nurikabe
-- [WPF PUZZLE GP 2014 ROUND 3](../questions/wpfpgp2014-3.md)
+- [WPF PUZZLE GP 2014 ROUND 3](../questions/wpfpgp2014_3.md)
 	- 9\. Islands (Nurikabe)
-- [WPF PUZZLE GP 2014 ROUND 4](../questions/wpfpgp2014-4.md)
+- [WPF PUZZLE GP 2014 ROUND 4](../questions/wpfpgp2014_4.md)
 	- 11\. Nurikabe
-- [WPF PUZZLE GP 2015 ROUND 1](../questions/wpfpgp2015-1.md)
+- [WPF PUZZLE GP 2015 ROUND 1](../questions/wpfpgp2015_1.md)
 	- 4-6. Nurikabe
-- [WPF PUZZLE GP 2016 ROUND 1](../questions/wpfpgp2016-1.md)
+- [WPF PUZZLE GP 2016 ROUND 1](../questions/wpfpgp2016_1.md)
 	- Competitive8-10. Nurikabe
-- [WPF PUZZLE GP 2017 ROUND 2](../questions/wpfpgp2017-2.md)
+- [WPF PUZZLE GP 2017 ROUND 2](../questions/wpfpgp2017_2.md)
 	- A3. Nurikabe
 	- B5-6. Nurikabe
-- [WPF PUZZLE GP 2017 ROUND 3](../questions/wpfpgp2017-3.md)
+- [WPF PUZZLE GP 2017 ROUND 3](../questions/wpfpgp2017_3.md)
 	- A3-4. Nurikabe
-- [WPF PUZZLE GP 2017 ROUND 4](../questions/wpfpgp2017-4.md)
+- [WPF PUZZLE GP 2017 ROUND 4](../questions/wpfpgp2017_4.md)
 	- A7. Nurikabe
 	- B7. Nurikabe
-- [WPF PUZZLE GP 2017 ROUND 6x](../questions/wpfpgp2017-6x.md)
+- [WPF PUZZLE GP 2017 ROUND 6x](../questions/wpfpgp2017_6x.md)
 	- 17\. Nurikabe
-- [WPF PUZZLE GP 2017 ROUND 7](../questions/wpfpgp2017-7.md)
+- [WPF PUZZLE GP 2017 ROUND 7](../questions/wpfpgp2017_7.md)
 	- A6. Nurikabe
-- [WPF PUZZLE GP 2017 ROUND 8](../questions/wpfpgp2017-8.md)
+- [WPF PUZZLE GP 2017 ROUND 8](../questions/wpfpgp2017_8.md)
 	- B1-2. Nurikabe
 	- C18. Nurikabe
-- [WPF PUZZLE GP 2018 ROUND 3](../questions/wpfpgp2018-3.md)
+- [WPF PUZZLE GP 2018 ROUND 3](../questions/wpfpgp2018_3.md)
 	- 19-20. Shading: Nurikabe
-- [WPF PUZZLE GP 2018 ROUND 4](../questions/wpfpgp2018-4.md)
+- [WPF PUZZLE GP 2018 ROUND 4](../questions/wpfpgp2018_4.md)
 	- 6\. Nurikabe
-- [WPF PUZZLE GP 2020 ROUND 2](../questions/wpfpgp2020-2.md)
+- [WPF PUZZLE GP 2020 ROUND 2](../questions/wpfpgp2020_2.md)
 	- 8-10. Nurikabe
-- [WPF PUZZLE GP 2020 ROUND 3](../questions/wpfpgp2020-3.md)
+- [WPF PUZZLE GP 2020 ROUND 3](../questions/wpfpgp2020_3.md)
 	- 22-23. Nurikabe
-- [WPF PUZZLE GP 2020 ROUND 7](../questions/wpfpgp2020-7.md)
+- [WPF PUZZLE GP 2020 ROUND 7](../questions/wpfpgp2020_7.md)
 	- 3-4. Nurikabe
-- [WPF PUZZLE GP 2020 ROUND 8](../questions/wpfpgp2020-8.md)
+- [WPF PUZZLE GP 2020 ROUND 8](../questions/wpfpgp2020_8.md)
 	- 15\. Nurikabe
-- [WPF PUZZLE GP 2021 ROUND 3](../questions/wpfpgp2021-3.md)
+- [WPF PUZZLE GP 2021 ROUND 3](../questions/wpfpgp2021_3.md)
 	- 4\. Nurikabe
 	- 12\. Nurikabe

@@ -1,7 +1,7 @@
 # 橋をかけろ
 
 ## バリエーション
-- [Hashiwokakero (Encoded)](hashiwokakero-encoded.md)
+- [Hashiwokakero (Encoded)](hashiwokakero_encoded.md)
 
 ## 問題
 - [WPC選抜大会 2022](../questions/jwpc2022.md)

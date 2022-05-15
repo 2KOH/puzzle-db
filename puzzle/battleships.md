@@ -1,18 +1,18 @@
 # バトルシップ
 
 ## バリエーション
-- [Battleships (Different Fleet)](battleships-differentfleet.md)
-- [Battleships (Hex)](battleships-hex.md)
-- [Battleships (Index Sums)](battleships-indexsums.md)
-- [Battleships (Iso)](battleships-iso.md)
-- [Battleships (Phrase)](battleships-phrase.md)
-- [Myopia バトルシップ](myopia-battleships.md)
-- [Nurikabe Battleships](nurikabe-battleships.md)
-- [ペントミノバトルシップ](pentomino-battleships.md)
-- [Spiral Galaxies + Battleships](spiralgalaxies-battleships.md)
-- [Star Battleships](star-battleships.md)
-- [Sum Battleships](sum-battleships.md)
-- [Yajilin (Battleship)](yajilin-battleships.md)
+- [Battleships (Different Fleet)](battleships_differentfleet.md)
+- [Battleships (Hex)](battleships_hex.md)
+- [Battleships (Index Sums)](battleships_indexsums.md)
+- [Battleships (Iso)](battleships_iso.md)
+- [Battleships (Phrase)](battleships_phrase.md)
+- [Myopia バトルシップ](myopia_battleships.md)
+- [Nurikabe Battleships](nurikabe_battleships.md)
+- [ペントミノバトルシップ](pentomino_battleships.md)
+- [Spiral Galaxies + Battleships](spiralgalaxies_battleships.md)
+- [Star Battleships](star_battleships.md)
+- [Sum Battleships](sum_battleships.md)
+- [Yajilin (Battleship)](yajilin_battleships.md)
 
 ## 問題
 - [WPC選抜大会 2016](../questions/jwpc2016.md)
@@ -25,28 +25,28 @@
 	- 11.1-2. バトルシップ
 - [WPC選抜大会 2022](../questions/jwpc2022.md)
 	- 16.1-2. バトルシップ
-- [WPF PUZZLE GP 2014 ROUND 2](../questions/wpfpgp2014-2.md)
+- [WPF PUZZLE GP 2014 ROUND 2](../questions/wpfpgp2014_2.md)
 	- 3\. Battleships
-- [WPF PUZZLE GP 2014 ROUND 3](../questions/wpfpgp2014-3.md)
+- [WPF PUZZLE GP 2014 ROUND 3](../questions/wpfpgp2014_3.md)
 	- 11\. Battleships
-- [WPF PUZZLE GP 2015 ROUND 4](../questions/wpfpgp2015-4.md)
+- [WPF PUZZLE GP 2015 ROUND 4](../questions/wpfpgp2015_4.md)
 	- 1-3. Battleships
-- [WPF PUZZLE GP 2015 ROUND 6](../questions/wpfpgp2015-6.md)
+- [WPF PUZZLE GP 2015 ROUND 6](../questions/wpfpgp2015_6.md)
 	- 5-8. Battleships
-- [WPF PUZZLE GP 2016 ROUND 1](../questions/wpfpgp2016-1.md)
+- [WPF PUZZLE GP 2016 ROUND 1](../questions/wpfpgp2016_1.md)
 	- Casual16-18. Battleships
-- [WPF PUZZLE GP 2017 ROUND 1](../questions/wpfpgp2017-1.md)
+- [WPF PUZZLE GP 2017 ROUND 1](../questions/wpfpgp2017_1.md)
 	- B3-5. Battleships
-- [WPF PUZZLE GP 2017 ROUND 4](../questions/wpfpgp2017-4.md)
+- [WPF PUZZLE GP 2017 ROUND 4](../questions/wpfpgp2017_4.md)
 	- A5. Battleships
 	- B5. Battleships
-- [WPF PUZZLE GP 2018 ROUND 2](../questions/wpfpgp2018-2.md)
+- [WPF PUZZLE GP 2018 ROUND 2](../questions/wpfpgp2018_2.md)
 	- 10-12. Battleships
-- [WPF PUZZLE GP 2019 ROUND 7](../questions/wpfpgp2019-7.md)
+- [WPF PUZZLE GP 2019 ROUND 7](../questions/wpfpgp2019_7.md)
 	- 1\. Battleships
-- [WPF PUZZLE GP 2021 ROUND 3](../questions/wpfpgp2021-3.md)
+- [WPF PUZZLE GP 2021 ROUND 3](../questions/wpfpgp2021_3.md)
 	- 13\. Battleships
-- [WPF PUZZLE GP 2021 ROUND 6](../questions/wpfpgp2021-6.md)
+- [WPF PUZZLE GP 2021 ROUND 6](../questions/wpfpgp2021_6.md)
 	- 8\. Battleships
-- [WPF PUZZLE GP 2021 ROUND 7](../questions/wpfpgp2021-7.md)
+- [WPF PUZZLE GP 2021 ROUND 7](../questions/wpfpgp2021_7.md)
 	- 5\. Battleships

@@ -1,13 +1,13 @@
 # Tapa
 
 ## バリエーション
-- [Full Tapa](full-tapa.md)
-- [LITS (Tapa)](lits-tapa.md)
-- [Loop (Tapa)](loop-tapa.md)
-- [Tapa Logic](tapa-encoded.md)
-- [Tapa (Transparent)](tapa-transparent.md)
-- [Tapa (Unknowns, Coupled)](tapa-unknownscoupled.md)
-- [Tapa (Wall)](tapa-wall.md)
+- [Full Tapa](full_tapa.md)
+- [LITS (Tapa)](lits_tapa.md)
+- [Loop (Tapa)](loop_tapa.md)
+- [Tapa Logic](tapa_encoded.md)
+- [Tapa (Transparent)](tapa_transparent.md)
+- [Tapa (Unknowns, Coupled)](tapa_unknownscoupled.md)
+- [Tapa (Wall)](tapa_wall.md)
 - [Twopa](twopa.md)
 
 ## 問題
@@ -19,50 +19,50 @@
 	- 12.1-2. Tapa
 - [WPC選抜大会 2022](../questions/jwpc2022.md)
 	- 4.1-2. Tapa
-- [WPF PUZZLE GP 2014 ROUND 2](../questions/wpfpgp2014-2.md)
+- [WPF PUZZLE GP 2014 ROUND 2](../questions/wpfpgp2014_2.md)
 	- 13\. Tapa
-- [WPF PUZZLE GP 2014 ROUND 5](../questions/wpfpgp2014-5.md)
+- [WPF PUZZLE GP 2014 ROUND 5](../questions/wpfpgp2014_5.md)
 	- 4\. Tapa
-- [WPF PUZZLE GP 2014 ROUND 6](../questions/wpfpgp2014-6.md)
+- [WPF PUZZLE GP 2014 ROUND 6](../questions/wpfpgp2014_6.md)
 	- 14\. Tapa
-- [WPF PUZZLE GP 2014 PLAYOFFS](../questions/wpfpgp2014-po.md)
+- [WPF PUZZLE GP 2014 PLAYOFFS](../questions/wpfpgp2014_po.md)
 	- 8. Tapa
-- [WPF PUZZLE GP 2015 ROUND 3](../questions/wpfpgp2015-3.md)
+- [WPF PUZZLE GP 2015 ROUND 3](../questions/wpfpgp2015_3.md)
 	- 1-6. Tapa
-- [WPF PUZZLE GP 2015 ROUND 7](../questions/wpfpgp2015-7.md)
+- [WPF PUZZLE GP 2015 ROUND 7](../questions/wpfpgp2015_7.md)
 	- 5-9. Tapa
-- [WPF PUZZLE GP 2015 ROUND PLAYOFFS](../questions/wpfpgp2015-po.md)
+- [WPF PUZZLE GP 2015 ROUND PLAYOFFS](../questions/wpfpgp2015_po.md)
 	- 14\. Tapa
-- [WPF PUZZLE GP 2017 ROUND 2](../questions/wpfpgp2017-2.md)
+- [WPF PUZZLE GP 2017 ROUND 2](../questions/wpfpgp2017_2.md)
 	- A1. Tapa
 	- B1-2. Tapa
-- [WPF PUZZLE GP 2017 ROUND 3](../questions/wpfpgp2017-3.md)
+- [WPF PUZZLE GP 2017 ROUND 3](../questions/wpfpgp2017_3.md)
 	- B5-6. Tapa
-- [WPF PUZZLE GP 2017 ROUND 4](../questions/wpfpgp2017-4.md)
+- [WPF PUZZLE GP 2017 ROUND 4](../questions/wpfpgp2017_4.md)
 	- A6. Tapa
 	- B6. Tapa
-- [WPF PUZZLE GP 2017 ROUND 7](../questions/wpfpgp2017-7.md)
+- [WPF PUZZLE GP 2017 ROUND 7](../questions/wpfpgp2017_7.md)
 	- A5. Tapa
-- [WPF PUZZLE GP 2017 PLAYOFFS](../questions/wpfpgp2017-po.md)
+- [WPF PUZZLE GP 2017 PLAYOFFS](../questions/wpfpgp2017_po.md)
 	- 2\. Tapa
-- [WPF PUZZLE GP 2018 ROUND 1](../questions/wpfpgp2018-1.md)
+- [WPF PUZZLE GP 2018 ROUND 1](../questions/wpfpgp2018_1.md)
 	- 12-13. Tapa
-- [WPF PUZZLE GP 2018 ROUND 7](../questions/wpfpgp2018-7.md)
+- [WPF PUZZLE GP 2018 ROUND 7](../questions/wpfpgp2018_7.md)
 	- 8-9. Tapa
-- [WPF PUZZLE GP 2018 PLAYOFFS](../questions/wpfpgp2018-po.md)
+- [WPF PUZZLE GP 2018 PLAYOFFS](../questions/wpfpgp2018_po.md)
 	- 1\. Tapa
-- [WPF PUZZLE GP 2019 ROUND 1](../questions/wpfpgp2019-1.md)
+- [WPF PUZZLE GP 2019 ROUND 1](../questions/wpfpgp2019_1.md)
 	- 10-11. Tapa
-- [WPF PUZZLE GP 2019 ROUND 6](../questions/wpfpgp2019-6.md)
+- [WPF PUZZLE GP 2019 ROUND 6](../questions/wpfpgp2019_6.md)
 	- 1\. Tapa
-- [WPF PUZZLE GP 2019 ROUND 8](../questions/wpfpgp2019-8.md)
+- [WPF PUZZLE GP 2019 ROUND 8](../questions/wpfpgp2019_8.md)
 	- 5-6. Tapa
-- [WPF PUZZLE GP 2019 PLAYOFFS](../questions/wpfpgp2019-po.md)
+- [WPF PUZZLE GP 2019 PLAYOFFS](../questions/wpfpgp2019_po.md)
 	- 6\. Tapa
 	- BackupA. Tapa
-- [WPF PUZZLE GP 2021 ROUND 3](../questions/wpfpgp2021-3.md)
+- [WPF PUZZLE GP 2021 ROUND 3](../questions/wpfpgp2021_3.md)
 	- 5\. Tapa
-- [WPF PUZZLE GP 2021 ROUND 6](../questions/wpfpgp2021-6.md)
+- [WPF PUZZLE GP 2021 ROUND 6](../questions/wpfpgp2021_6.md)
 	- 7\. Tapa
-- [WPF PUZZLE GP 2021 ROUND 8](../questions/wpfpgp2021-8.md)
+- [WPF PUZZLE GP 2021 ROUND 8](../questions/wpfpgp2021_8.md)
 	- 3\. Tapa

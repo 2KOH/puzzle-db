@@ -4,8 +4,8 @@
 - [にょろにょろナンバー](meanderingnumbers.md)
 
 ## バリエーション
-- [Meandering Wordsearch](meandering-wordsearch.md)
+- [Meandering Wordsearch](meandering_wordsearch.md)
 
 ## 問題
-- [WPF PUZZLE GP 2021 ROUND 6](../questions/wpfpgp2021-6.md)
+- [WPF PUZZLE GP 2021 ROUND 6](../questions/wpfpgp2021_6.md)
 	- 12\. Meandering Words

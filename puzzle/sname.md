@@ -1,4 +1,4 @@
 # sname
 
 ## バリエーション
-- [Snake Pit](snake-pit.md)
+- [Snake Pit](snake_pit.md)

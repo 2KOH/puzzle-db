@@ -1,0 +1,8 @@
+# Criss-Cross (Crowded)
+
+## オリジナル
+- [スケルトン](crisscross.md)
+
+## 問題
+- [WPF PUZZLE GP 2021 ROUND 7](../questions/wpfpgp2021_7.md)
+	- 9\. Criss-Cross (Crowded)

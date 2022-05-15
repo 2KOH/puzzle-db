@@ -1,19 +1,19 @@
 # ABCプレース
 
 ## バリエーション
-- [Easy as First or Second ABCD](easyas-firstorsecond.md)
-- [Easy As (Fuzuli)](easyas-fuzuli.md)
-- [Easy As (Hex)](easyas-hex.md)
-- [Easy As (Iso)](easyas-iso.md)
-- [Easy as Japanese Railways](easyas-japanese-railways.md)
-- [くねくねABCプレース](easyas-kunekune.md)
-- [Easy as LITS](easyas-lits.md)
-- [Easy As (Loop)](easyas-loop.md)
-- [Easy As (no 2×2)](easyas-no2x2.md)
-- [ななめにくっつかないABCプレース](easyas-notouch.md)
-- [Easy As (Second)](easyas-second.md)
-- [注文の多いABCプレース](esayas-whatnumber.md)
-- [Easy as (Hex)](wasyas-hex.md)
+- [Easy as First or Second ABCD](easyas_firstorsecond.md)
+- [Easy As (Fuzuli)](easyas_fuzuli.md)
+- [Easy As (Hex)](easyas_hex.md)
+- [Easy As (Iso)](easyas_iso.md)
+- [Easy as Japanese Railways](easyas_japanese_railways.md)
+- [くねくねABCプレース](easyas_kunekune.md)
+- [Easy as LITS](easyas_lits.md)
+- [Easy As (Loop)](easyas_loop.md)
+- [Easy As (no 2×2)](easyas_no2x2.md)
+- [ななめにくっつかないABCプレース](easyas_notouch.md)
+- [Easy As (Second)](easyas_second.md)
+- [注文の多いABCプレース](esayas_whatnumber.md)
+- [Easy as (Hex)](wasyas_hex.md)
 
 ## 問題
 - [WPC選抜大会 2016](../questions/jwpc2016.md)
@@ -24,35 +24,35 @@
 	- 12.1-2. ABCプレース
 - [WPC選抜大会 2022](../questions/jwpc2022.md)
 	- 14.1-2. ABCプレース
-- [WPF PUZZLE GP 2014 ROUND 3](../questions/wpfpgp2014-3.md)
+- [WPF PUZZLE GP 2014 ROUND 3](../questions/wpfpgp2014_3.md)
 	- 13\. Easy as ABC
-- [WPF PUZZLE GP 2014 ROUND 4](../questions/wpfpgp2014-4.md)
+- [WPF PUZZLE GP 2014 ROUND 4](../questions/wpfpgp2014_4.md)
 	- 6\. Easy as ABC
-- [WPF PUZZLE GP 2014 ROUND 6](../questions/wpfpgp2014-6.md)
+- [WPF PUZZLE GP 2014 ROUND 6](../questions/wpfpgp2014_6.md)
 	- 11\. Easy As ABC
-- [WPF PUZZLE GP 2014 PLAYOFFS](../questions/wpfpgp2014-po.md)
+- [WPF PUZZLE GP 2014 PLAYOFFS](../questions/wpfpgp2014_po.md)
 	- 3. Easy as ABCD
-- [WPF PUZZLE GP 2016 ROUND 7](../questions/wpfpgp2016-7.md)
+- [WPF PUZZLE GP 2016 ROUND 7](../questions/wpfpgp2016_7.md)
 	- 19-21. Easy as...
-- [WPF PUZZLE GP 2016 ROUND 8](../questions/wpfpgp2016-8.md)
+- [WPF PUZZLE GP 2016 ROUND 8](../questions/wpfpgp2016_8.md)
 	- 30-32. Easy as...
-- [WPF PUZZLE GP 2017 ROUND 1](../questions/wpfpgp2017-1.md)
+- [WPF PUZZLE GP 2017 ROUND 1](../questions/wpfpgp2017_1.md)
 	- A4-5. Easy As...
-- [WPF PUZZLE GP 2017 ROUND 3](../questions/wpfpgp2017-3.md)
+- [WPF PUZZLE GP 2017 ROUND 3](../questions/wpfpgp2017_3.md)
 	- B1-2. Easy As...
-- [WPF PUZZLE GP 2017 ROUND 5](../questions/wpfpgp2017-5.md)
+- [WPF PUZZLE GP 2017 ROUND 5](../questions/wpfpgp2017_5.md)
 	- B13,15,17. Easy as...
-- [WPF PUZZLE GP 2017 ROUND 6x](../questions/wpfpgp2017-6x.md)
+- [WPF PUZZLE GP 2017 ROUND 6x](../questions/wpfpgp2017_6x.md)
 	- 1-2. Easy As...
-- [WPF PUZZLE GP 2019 ROUND 2](../questions/wpfpgp2019-2.md)
+- [WPF PUZZLE GP 2019 ROUND 2](../questions/wpfpgp2019_2.md)
 	- 12-14. Easy As...
-- [WPF PUZZLE GP 2019 ROUND 7](../questions/wpfpgp2019-7.md)
+- [WPF PUZZLE GP 2019 ROUND 7](../questions/wpfpgp2019_7.md)
 	- 5\. Easy As...
-- [WPF PUZZLE GP 2020 ROUND 6](../questions/wpfpgp2020-6.md)
+- [WPF PUZZLE GP 2020 ROUND 6](../questions/wpfpgp2020_6.md)
 	- 13-14. Easy as...
-- [WPF PUZZLE GP 2021 ROUND 3](../questions/wpfpgp2021-3.md)
+- [WPF PUZZLE GP 2021 ROUND 3](../questions/wpfpgp2021_3.md)
 	- 2\. Easy As
-- [WPF PUZZLE GP 2021 ROUND 7](../questions/wpfpgp2021-7.md)
+- [WPF PUZZLE GP 2021 ROUND 7](../questions/wpfpgp2021_7.md)
 	- 4\. Easy As
-- [WPF PUZZLE GP 2021 ROUND 8](../questions/wpfpgp2021-8.md)
+- [WPF PUZZLE GP 2021 ROUND 8](../questions/wpfpgp2021_8.md)
 	- 1\. Easy As

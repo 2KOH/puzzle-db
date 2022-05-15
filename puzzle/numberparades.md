@@ -1,5 +1,5 @@
 # Number Parades
 
 ## 問題
-- [WPF PUZZLE GP 2018 ROUND 7](../questions/wpfpgp2018-7.md)
+- [WPF PUZZLE GP 2018 ROUND 7](../questions/wpfpgp2018_7.md)
 	- 18-19. Number Parades

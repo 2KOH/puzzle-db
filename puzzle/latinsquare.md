@@ -1,4 +1,4 @@
 # ラテンスクエア
 
 ## バリエーション
-- [Arrow Latin Square](arrow-latinsquare.md)
+- [Arrow Latin Square](arrow_latinsquare.md)

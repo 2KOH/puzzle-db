@@ -1,4 +1,4 @@
 # Hidato
 
 ## バリエーション
-- [Rook Hidato](rook-hidato.md)
+- [Rook Hidato](rook_hidato.md)
